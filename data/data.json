@@ -1,1570 +1,1962 @@
 [
- {
-   "Country": "Algeria",
-   "Capital City": "Algiers",
-   "Flag Adoption Year": 1962,
-   "Flag Age (Years)": 64,
-   "Highest Office Holder": "President Abdelmadjid Tebboune",
-   "Office Holder Age (Years)": 80
- },
- {
-   "Country": "Angola",
-   "Capital City": "Luanda",
-   "Flag Adoption Year": 1975,
-   "Flag Age (Years)": 51,
-   "Highest Office Holder": "President João Lourenço",
-   "Office Holder Age (Years)": 72
- },
- {
-   "Country": "Benin",
-   "Capital City": "Porto-Novo",
-   "Flag Adoption Year": 1959,
-   "Flag Age (Years)": 67,
-   "Highest Office Holder": "President Romuald Wadagni",
-   "Office Holder Age (Years)": 49
- },
- {
-   "Country": "Botswana",
-   "Capital City": "Gaborone",
-   "Flag Adoption Year": 1966,
-   "Flag Age (Years)": 60,
-   "Highest Office Holder": "President Duma Boko",
-   "Office Holder Age (Years)": 56
- },
- {
-   "Country": "Burkina Faso",
-   "Capital City": "Ouagadougou",
-   "Flag Adoption Year": 1984,
-   "Flag Age (Years)": 42,
-   "Highest Office Holder": "President Ibrahim Traoré",
-   "Office Holder Age (Years)": 38
- },
- {
-   "Country": "Burundi",
-   "Capital City": "Gitega",
-   "Flag Adoption Year": 1967,
-   "Flag Age (Years)": 59,
-   "Highest Office Holder": "President Évariste Ndayishimiye",
-   "Office Holder Age (Years)": 57
- },
- {
-   "Country": "Cameroon",
-   "Capital City": "Yaounde",
-   "Flag Adoption Year": 1975,
-   "Flag Age (Years)": 51,
-   "Highest Office Holder": "President Paul Biya",
-   "Office Holder Age (Years)": 93
- },
- {
-   "Country": "Cape Verde",
-   "Capital City": "Praia",
-   "Flag Adoption Year": 1992,
-   "Flag Age (Years)": 34,
-   "Highest Office Holder": "President José Maria Neves",
-   "Office Holder Age (Years)": 66
- },
- {
-   "Country": "Central African Rep.",
-   "Capital City": "Bangui",
-   "Flag Adoption Year": 1958,
-   "Flag Age (Years)": 68,
-   "Highest Office Holder": "President Faustin-Archange Touadéra",
-   "Office Holder Age (Years)": 69
- },
- {
-   "Country": "Chad",
-   "Capital City": "N'Djamena",
-   "Flag Adoption Year": 1959,
-   "Flag Age (Years)": 67,
-   "Highest Office Holder": "President Mahamat Déby",
-   "Office Holder Age (Years)": 42
- },
- {
-   "Country": "Comoros",
-   "Capital City": "Moroni",
-   "Flag Adoption Year": 2001,
-   "Flag Age (Years)": 25,
-   "Highest Office Holder": "President Azali Assoumani",
-   "Office Holder Age (Years)": 67
- },
- {
-   "Country": "Congo (DR)",
-   "Capital City": "Kinshasa",
-   "Flag Adoption Year": 2006,
-   "Flag Age (Years)": 20,
-   "Highest Office Holder": "President Félix Tshisekedi",
-   "Office Holder Age (Years)": 62
- },
- {
-   "Country": "Congo (Republic)",
-   "Capital City": "Brazzaville",
-   "Flag Adoption Year": 1991,
-   "Flag Age (Years)": 35,
-   "Highest Office Holder": "President Denis Sassou Nguesso",
-   "Office Holder Age (Years)": 82
- },
- {
-   "Country": "Cote d'Ivoire",
-   "Capital City": "Yamoussoukro",
-   "Flag Adoption Year": 1959,
-   "Flag Age (Years)": 67,
-   "Highest Office Holder": "President Alassane Ouattara",
-   "Office Holder Age (Years)": 84
- },
- {
-   "Country": "Djibouti",
-   "Capital City": "Djibouti",
-   "Flag Adoption Year": 1977,
-   "Flag Age (Years)": 49,
-   "Highest Office Holder": "President Ismaïl Omar Guelleh",
-   "Office Holder Age (Years)": 78
- },
- {
-   "Country": "Egypt",
-   "Capital City": "Cairo",
-   "Flag Adoption Year": 1984,
-   "Flag Age (Years)": 42,
-   "Highest Office Holder": "President Abdel Fattah el-Sisi",
-   "Office Holder Age (Years)": 71
- },
- {
-   "Country": "Equatorial Guinea",
-   "Capital City": "Malabo",
-   "Flag Adoption Year": 1979,
-   "Flag Age (Years)": 47,
-   "Highest Office Holder": "President Teodoro Obiang Nguema Mbasogo",
-   "Office Holder Age (Years)": 83
- },
- {
-   "Country": "Eritrea",
-   "Capital City": "Asmara",
-   "Flag Adoption Year": 1993,
-   "Flag Age (Years)": 33,
-   "Highest Office Holder": "President Isaias Afwerki",
-   "Office Holder Age (Years)": 80
- },
- {
-   "Country": "Eswatini",
-   "Capital City": "Mbabane",
-   "Flag Adoption Year": 1968,
-   "Flag Age (Years)": 58,
-   "Highest Office Holder": "King Mswati III",
-   "Office Holder Age (Years)": 58
- },
- {
-   "Country": "Ethiopia",
-   "Capital City": "Addis Ababa",
-   "Flag Adoption Year": 1996,
-   "Flag Age (Years)": 30,
-   "Highest Office Holder": "PM Abiy Ahmed",
-   "Office Holder Age (Years)": 49
- },
- {
-   "Country": "Gabon",
-   "Capital City": "Libreville",
-   "Flag Adoption Year": 1960,
-   "Flag Age (Years)": 66,
-   "Highest Office Holder": "President Brice Oligui Nguema",
-   "Office Holder Age (Years)": 51
- },
- {
-   "Country": "Gambia",
-   "Capital City": "Banjul",
-   "Flag Adoption Year": 1965,
-   "Flag Age (Years)": 61,
-   "Highest Office Holder": "President Adama Barrow",
-   "Office Holder Age (Years)": 61
- },
- {
-   "Country": "Ghana",
-   "Capital City": "Accra",
-   "Flag Adoption Year": 1966,
-   "Flag Age (Years)": 60,
-   "Highest Office Holder": "President John Mahama",
-   "Office Holder Age (Years)": 67
- },
- {
-   "Country": "Guinea",
-   "Capital City": "Conakry",
-   "Flag Adoption Year": 1958,
-   "Flag Age (Years)": 68,
-   "Highest Office Holder": "President Mamady Doumbouya",
-   "Office Holder Age (Years)": 46
- },
- {
-   "Country": "Guinea-Bissau",
-   "Capital City": "Bissau",
-   "Flag Adoption Year": 1973,
-   "Flag Age (Years)": 53,
-   "Highest Office Holder": "President Umaro Sissoco Embaló",
-   "Office Holder Age (Years)": 53
- },
- {
-   "Country": "Kenya",
-   "Capital City": "Nairobi",
-   "Flag Adoption Year": 1963,
-   "Flag Age (Years)": 63,
-   "Highest Office Holder": "President William Ruto",
-   "Office Holder Age (Years)": 59
- },
- {
-   "Country": "Lesotho",
-   "Capital City": "Maseru",
-   "Flag Adoption Year": 2006,
-   "Flag Age (Years)": 20,
-   "Highest Office Holder": "King Letsie III",
-   "Office Holder Age (Years)": 62
- },
- {
-   "Country": "Liberia",
-   "Capital City": "Monrovia",
-   "Flag Adoption Year": 1847,
-   "Flag Age (Years)": 179,
-   "Highest Office Holder": "President Joseph Boakai",
-   "Office Holder Age (Years)": 81
- },
- {
-   "Country": "Libya",
-   "Capital City": "Tripoli",
-   "Flag Adoption Year": 2011,
-   "Flag Age (Years)": 15,
-   "Highest Office Holder": "Chairman Mohamed al-Menfi",
-   "Office Holder Age (Years)": 50
- },
- {
-   "Country": "Madagascar",
-   "Capital City": "Antananarivo",
-   "Flag Adoption Year": 1958,
-   "Flag Age (Years)": 68,
-   "Highest Office Holder": "President Michael Randrianirina",
-   "Office Holder Age (Years)": 54
- },
- {
-   "Country": "Malawi",
-   "Capital City": "Lilongwe",
-   "Flag Adoption Year": 2012,
-   "Flag Age (Years)": 14,
-   "Highest Office Holder": "President Peter Mutharika",
-   "Office Holder Age (Years)": 85
- },
- {
-   "Country": "Mali",
-   "Capital City": "Bamako",
-   "Flag Adoption Year": 1961,
-   "Flag Age (Years)": 65,
-   "Highest Office Holder": "President Assimi Goïta",
-   "Office Holder Age (Years)": 43
- },
- {
-   "Country": "Mauritania",
-   "Capital City": "Nouakchott",
-   "Flag Adoption Year": 2017,
-   "Flag Age (Years)": 9,
-   "Highest Office Holder": "President Mohamed Ould Ghazouani",
-   "Office Holder Age (Years)": 69
- },
- {
-   "Country": "Mauritius",
-   "Capital City": "Port Louis",
-   "Flag Adoption Year": 1968,
-   "Flag Age (Years)": 58,
-   "Highest Office Holder": "PM Pravind Jugnauth",
-   "Office Holder Age (Years)": 64
- },
- {
-   "Country": "Morocco",
-   "Capital City": "Rabat",
-   "Flag Adoption Year": 1915,
-   "Flag Age (Years)": 111,
-   "Highest Office Holder": "King Mohammed VI",
-   "Office Holder Age (Years)": 62
- },
- {
-   "Country": "Mozambique",
-   "Capital City": "Maputo",
-   "Flag Adoption Year": 1983,
-   "Flag Age (Years)": 43,
-   "Highest Office Holder": "President Daniel Chapo",
-   "Office Holder Age (Years)": 49
- },
- {
-   "Country": "Namibia",
-   "Capital City": "Windhoek",
-   "Flag Adoption Year": 1990,
-   "Flag Age (Years)": 36,
-   "Highest Office Holder": "President Nangolo Mbumba",
-   "Office Holder Age (Years)": 84
- },
- {
-   "Country": "Niger",
-   "Capital City": "Niamey",
-   "Flag Adoption Year": 1959,
-   "Flag Age (Years)": 67,
-   "Highest Office Holder": "General Abdourahamane Tchiani",
-   "Office Holder Age (Years)": 62
- },
- {
-   "Country": "Nigeria",
-   "Capital City": "Abuja",
-   "Flag Adoption Year": 1960,
-   "Flag Age (Years)": 66,
-   "Highest Office Holder": "President Bola Tinubu",
-   "Office Holder Age (Years)": 74
- },
- {
-   "Country": "Rwanda",
-   "Capital City": "Kigali",
-   "Flag Adoption Year": 2001,
-   "Flag Age (Years)": 25,
-   "Highest Office Holder": "President Paul Kagame",
-   "Office Holder Age (Years)": 68
- },
- {
-   "Country": "Sao Tome / Principe",
-   "Capital City": "Sao Tome",
-   "Flag Adoption Year": 1975,
-   "Flag Age (Years)": 51,
-   "Highest Office Holder": "President Carlos Vila Nova",
-   "Office Holder Age (Years)": 66
- },
- {
-   "Country": "Senegal",
-   "Capital City": "Dakar",
-   "Flag Adoption Year": 1960,
-   "Flag Age (Years)": 66,
-   "Highest Office Holder": "President Bassirou Diomaye Faye",
-   "Office Holder Age (Years)": 46
- },
- {
-   "Country": "Seychelles",
-   "Capital City": "Victoria",
-   "Flag Adoption Year": 1996,
-   "Flag Age (Years)": 30,
-   "Highest Office Holder": "President Wavel Ramkalawan",
-   "Office Holder Age (Years)": 65
- },
- {
-   "Country": "Sierra Leone",
-   "Capital City": "Freetown",
-   "Flag Adoption Year": 1961,
-   "Flag Age (Years)": 65,
-   "Highest Office Holder": "President Julius Maada Bio",
-   "Office Holder Age (Years)": 61
- },
- {
-   "Country": "Somalia",
-   "Capital City": "Mogadishu",
-   "Flag Adoption Year": 1960,
-   "Flag Age (Years)": 66,
-   "Highest Office Holder": "President Hassan Sheikh Mohamud",
-   "Office Holder Age (Years)": 70
- },
- {
-   "Country": "South Africa",
-   "Capital City": "Pretoria",
-   "Flag Adoption Year": 1994,
-   "Flag Age (Years)": 32,
-   "Highest Office Holder": "President Cyril Ramaphosa",
-   "Office Holder Age (Years)": 73
- },
- {
-   "Country": "South Sudan",
-   "Capital City": "Juba",
-   "Flag Adoption Year": 2011,
-   "Flag Age (Years)": 15,
-   "Highest Office Holder": "President Salva Kiir Mayardit",
-   "Office Holder Age (Years)": 74
- },
- {
-   "Country": "Sudan",
-   "Capital City": "Khartoum",
-   "Flag Adoption Year": 1970,
-   "Flag Age (Years)": 56,
-   "Highest Office Holder": "General Abdel Fattah al-Burhan",
-   "Office Holder Age (Years)": 65
- },
- {
-   "Country": "Tanzania",
-   "Capital City": "Dodoma",
-   "Flag Adoption Year": 1964,
-   "Flag Age (Years)": 62,
-   "Highest Office Holder": "President Samia Suluhu Hassan",
-   "Office Holder Age (Years)": 66
- },
- {
-   "Country": "Togo",
-   "Capital City": "Lome",
-   "Flag Adoption Year": 1960,
-   "Flag Age (Years)": 66,
-   "Highest Office Holder": "President Jean-Lucien Savi de Tové",
-   "Office Holder Age (Years)": 86
- },
- {
-   "Country": "Tunisia",
-   "Capital City": "Tunis",
-   "Flag Adoption Year": 1831,
-   "Flag Age (Years)": 195,
-   "Highest Office Holder": "President Kaïs Saïed",
-   "Office Holder Age (Years)": 68
- },
- {
-   "Country": "Uganda",
-   "Capital City": "Kampala",
-   "Flag Adoption Year": 1962,
-   "Flag Age (Years)": 64,
-   "Highest Office Holder": "President Yoweri Museveni",
-   "Office Holder Age (Years)": 81
- },
- {
-   "Country": "Zambia",
-   "Capital City": "Lusaka",
-   "Flag Adoption Year": 1964,
-   "Flag Age (Years)": 62,
-   "Highest Office Holder": "President Hakainde Hichilema",
-   "Office Holder Age (Years)": 63
- },
- {
-   "Country": "Zimbabwe",
-   "Capital City": "Harare",
-   "Flag Adoption Year": 1980,
-   "Flag Age (Years)": 46,
-   "Highest Office Holder": "President Emmerson Mnangagwa",
-   "Office Holder Age (Years)": 83
- },
- {
-   "Country": "Albania",
-   "Capital City": "Tirana",
-   "Flag Adoption Year": 1912,
-   "Flag Age (Years)": 114,
-   "Highest Office Holder": "President Bajram Begaj",
-   "Office Holder Age (Years)": 59
- },
- {
-   "Country": "Andorra",
-   "Capital City": "Andorra la Vella",
-   "Flag Adoption Year": 1971,
-   "Flag Age (Years)": 55,
-   "Highest Office Holder": "Co-Prince Emmanuel Macron",
-   "Office Holder Age (Years)": 48
- },
- {
-   "Country": "Austria",
-   "Capital City": "Vienna",
-   "Flag Adoption Year": 1918,
-   "Flag Age (Years)": 108,
-   "Highest Office Holder": "Chancellor Christian Stocker",
-   "Office Holder Age (Years)": 65
- },
- {
-   "Country": "Belarus",
-   "Capital City": "Minsk",
-   "Flag Adoption Year": 1995,
-   "Flag Age (Years)": 31,
-   "Highest Office Holder": "President Alexander Lukashenko",
-   "Office Holder Age (Years)": 71
- },
- {
-   "Country": "Belgium",
-   "Capital City": "Brussels",
-   "Flag Adoption Year": 1831,
-   "Flag Age (Years)": 195,
-   "Highest Office Holder": "PM Bart De Wever",
-   "Office Holder Age (Years)": 55
- },
- {
-   "Country": "Bosnia / Herz.",
-   "Capital City": "Sarajevo",
-   "Flag Adoption Year": 1998,
-   "Flag Age (Years)": 28,
-   "Highest Office Holder": "Chair Denis Bećirović",
-   "Office Holder Age (Years)": 51
- },
- {
-   "Country": "Bulgaria",
-   "Capital City": "Sofia",
-   "Flag Adoption Year": 1991,
-   "Flag Age (Years)": 35,
-   "Highest Office Holder": "President Iliana Iotova",
-   "Office Holder Age (Years)": 61
- },
- {
-   "Country": "Croatia",
-   "Capital City": "Zagreb",
-   "Flag Adoption Year": 1990,
-   "Flag Age (Years)": 36,
-   "Highest Office Holder": "PM Andrej Plenković",
-   "Office Holder Age (Years)": 56
- },
- {
-   "Country": "Cyprus",
-   "Capital City": "Nicosia",
-   "Flag Adoption Year": 1960,
-   "Flag Age (Years)": 66,
-   "Highest Office Holder": "President Nikos Christodoulides",
-   "Office Holder Age (Years)": 52
- },
- {
-   "Country": "Czech Republic",
-   "Capital City": "Prague",
-   "Flag Adoption Year": 1993,
-   "Flag Age (Years)": 33,
-   "Highest Office Holder": "PM Andrej Babiš",
-   "Office Holder Age (Years)": 71
- },
- {
-   "Country": "Denmark",
-   "Capital City": "Copenhagen",
-   "Flag Adoption Year": 1625,
-   "Flag Age (Years)": 401,
-   "Highest Office Holder": "PM Mette Frederiksen",
-   "Office Holder Age (Years)": 48
- },
- {
-   "Country": "Estonia",
-   "Capital City": "Tallinn",
-   "Flag Adoption Year": 1918,
-   "Flag Age (Years)": 108,
-   "Highest Office Holder": "President Alar Karis",
-   "Office Holder Age (Years)": 68
- },
- {
-   "Country": "Finland",
-   "Capital City": "Helsinki",
-   "Flag Adoption Year": 1918,
-   "Flag Age (Years)": 108,
-   "Highest Office Holder": "President Alexander Stubb",
-   "Office Holder Age (Years)": 58
- },
- {
-   "Country": "France",
-   "Capital City": "Paris",
-   "Flag Adoption Year": 1830,
-   "Flag Age (Years)": 196,
-   "Highest Office Holder": "President Emmanuel Macron",
-   "Office Holder Age (Years)": 48
- },
- {
-   "Country": "Germany",
-   "Capital City": "Berlin",
-   "Flag Adoption Year": 1918,
-   "Flag Age (Years)": 108,
-   "Highest Office Holder": "Chancellor Friedrich Merz",
-   "Office Holder Age (Years)": 70
- },
- {
-   "Country": "Greece",
-   "Capital City": "Athens",
-   "Flag Adoption Year": 1978,
-   "Flag Age (Years)": 48,
-   "Highest Office Holder": "PM Kyriakos Mitsotakis",
-   "Office Holder Age (Years)": 58
- },
- {
-   "Country": "Hungary",
-   "Capital City": "Budapest",
-   "Flag Adoption Year": 1990,
-   "Flag Age (Years)": 36,
-   "Highest Office Holder": "PM Péter Magyar",
-   "Office Holder Age (Years)": 45
- },
- {
-   "Country": "Iceland",
-   "Capital City": "Reykjavik",
-   "Flag Adoption Year": 1944,
-   "Flag Age (Years)": 82,
-   "Highest Office Holder": "PM Kristrún Frostadóttir",
-   "Office Holder Age (Years)": 37
- },
- {
-   "Country": "Ireland",
-   "Capital City": "Dublin",
-   "Flag Adoption Year": 1919,
-   "Flag Age (Years)": 107,
-   "Highest Office Holder": "President Catherine Connolly",
-   "Office Holder Age (Years)": 69
- },
- {
-   "Country": "Italy",
-   "Capital City": "Rome",
-   "Flag Adoption Year": 1943,
-   "Flag Age (Years)": 83,
-   "Highest Office Holder": "PM Giorgia Meloni",
-   "Office Holder Age (Years)": 49
- },
- {
-   "Country": "Latvia",
-   "Capital City": "Riga",
-   "Flag Adoption Year": 1921,
-   "Flag Age (Years)": 105,
-   "Highest Office Holder": "PM Evika Siliņa",
-   "Office Holder Age (Years)": 51
- },
- {
-   "Country": "Liechtenstein",
-   "Capital City": "Vaduz",
-   "Flag Adoption Year": 1937,
-   "Flag Age (Years)": 89,
-   "Highest Office Holder": "Prince Hans-Adam II",
-   "Office Holder Age (Years)": 81
- },
- {
-   "Country": "Lithuania",
-   "Capital City": "Vilnius",
-   "Flag Adoption Year": 1988,
-   "Flag Age (Years)": 38,
-   "Highest Office Holder": "President Gitanas Nausėda",
-   "Office Holder Age (Years)": 61
- },
- {
-   "Country": "Luxembourg",
-   "Capital City": "Luxembourg",
-   "Flag Adoption Year": 1972,
-   "Flag Age (Years)": 54,
-   "Highest Office Holder": "Grand Duke Guillaume V",
-   "Office Holder Age (Years)": 44
- },
- {
-   "Country": "Malta",
-   "Capital City": "Valletta",
-   "Flag Adoption Year": 1964,
-   "Flag Age (Years)": 62,
-   "Highest Office Holder": "President Myriam Spiteri Debono",
-   "Office Holder Age (Years)": 73
- },
- {
-   "Country": "Moldova",
-   "Capital City": "Chisinau",
-   "Flag Adoption Year": 1990,
-   "Flag Age (Years)": 36,
-   "Highest Office Holder": "President Maia Sandu",
-   "Office Holder Age (Years)": 53
- },
- {
-   "Country": "Monaco",
-   "Capital City": "Monaco",
-   "Flag Adoption Year": 1881,
-   "Flag Age (Years)": 145,
-   "Highest Office Holder": "Prince Albert II",
-   "Office Holder Age (Years)": 68
- },
- {
-   "Country": "Montenegro",
-   "Capital City": "Podgorica",
-   "Flag Adoption Year": 2004,
-   "Flag Age (Years)": 22,
-   "Highest Office Holder": "PM Milojko Spajić",
-   "Office Holder Age (Years)": 38
- },
- {
-   "Country": "Netherlands",
-   "Capital City": "Amsterdam",
-   "Flag Adoption Year": 1660,
-   "Flag Age (Years)": 366,
-   "Highest Office Holder": "PM Rob Jetten",
-   "Office Holder Age (Years)": 39
- },
- {
-   "Country": "North Macedonia",
-   "Capital City": "Skopje",
-   "Flag Adoption Year": 1995,
-   "Flag Age (Years)": 31,
-   "Highest Office Holder": "President Gordana Siljanovska-Davkova",
-   "Office Holder Age (Years)": 72
- },
- {
-   "Country": "Norway",
-   "Capital City": "Oslo",
-   "Flag Adoption Year": 1899,
-   "Flag Age (Years)": 127,
-   "Highest Office Holder": "King Harald V",
-   "Office Holder Age (Years)": 89
- },
- {
-   "Country": "Poland",
-   "Capital City": "Warsaw",
-   "Flag Adoption Year": 1919,
-   "Flag Age (Years)": 107,
-   "Highest Office Holder": "President Karol Nawrocki",
-   "Office Holder Age (Years)": 43
- },
- {
-   "Country": "Portugal",
-   "Capital City": "Lisbon",
-   "Flag Adoption Year": 1911,
-   "Flag Age (Years)": 115,
-   "Highest Office Holder": "President António José Seguro",
-   "Office Holder Age (Years)": 64
- },
- {
-   "Country": "Romania",
-   "Capital City": "Bucharest",
-   "Flag Adoption Year": 1989,
-   "Flag Age (Years)": 37,
-   "Highest Office Holder": "President Nicușor Dan",
-   "Office Holder Age (Years)": 56
- },
- {
-   "Country": "Russia",
-   "Capital City": "Moscow",
-   "Flag Adoption Year": 1991,
-   "Flag Age (Years)": 35,
-   "Highest Office Holder": "President Vladimir Putin",
-   "Office Holder Age (Years)": 73
- },
- {
-   "Country": "San Marino",
-   "Capital City": "San Marino",
-   "Flag Adoption Year": 1862,
-   "Flag Age (Years)": 164,
-   "Highest Office Holder": "Captain Regent Alice Mina",
-   "Office Holder Age (Years)": 39
- },
- {
-   "Country": "Serbia",
-   "Capital City": "Belgrade",
-   "Flag Adoption Year": 2004,
-   "Flag Age (Years)": 22,
-   "Highest Office Holder": "President Aleksandar Vučić",
-   "Office Holder Age (Years)": 56
- },
- {
-   "Country": "Slovakia",
-   "Capital City": "Bratislava",
-   "Flag Adoption Year": 1992,
-   "Flag Age (Years)": 34,
-   "Highest Office Holder": "President Peter Pellegrini",
-   "Office Holder Age (Years)": 50
- },
- {
-   "Country": "Slovenia",
-   "Capital City": "Ljubljana",
-   "Flag Adoption Year": 1991,
-   "Flag Age (Years)": 35,
-   "Highest Office Holder": "President Nataša Pirc Musar",
-   "Office Holder Age (Years)": 58
- },
- {
-   "Country": "Spain",
-   "Capital City": "Madrid",
-   "Flag Adoption Year": 1981,
-   "Flag Age (Years)": 45,
-   "Highest Office Holder": "PM Pedro Sánchez",
-   "Office Holder Age (Years)": 54
- },
- {
-   "Country": "Sweden",
-   "Capital City": "Stockholm",
-   "Flag Adoption Year": 1906,
-   "Flag Age (Years)": 120,
-   "Highest Office Holder": "PM Ulf Kristersson",
-   "Office Holder Age (Years)": 62
- },
- {
-   "Country": "Switzerland",
-   "Capital City": "Bern",
-   "Flag Adoption Year": 1889,
-   "Flag Age (Years)": 137,
-   "Highest Office Holder": "President Guy Parmelin",
-   "Office Holder Age (Years)": 66
- },
- {
-   "Country": "Ukraine",
-   "Capital City": "Kyiv",
-   "Flag Adoption Year": 1992,
-   "Flag Age (Years)": 34,
-   "Highest Office Holder": "President Volodymyr Zelenskyy",
-   "Office Holder Age (Years)": 48
- },
- {
-   "Country": "United Kingdom",
-   "Capital City": "London",
-   "Flag Adoption Year": 1801,
-   "Flag Age (Years)": 225,
-   "Highest Office Holder": "PM Keir Starmer",
-   "Office Holder Age (Years)": 63
- },
- {
-   "Country": "Vatican City",
-   "Capital City": "Vatican City",
-   "Flag Adoption Year": 1929,
-   "Flag Age (Years)": 97,
-   "Highest Office Holder": "Pope Leo XIV",
-   "Office Holder Age (Years)": 70
- },
- {
-   "Country": "Afghanistan",
-   "Capital City": "Kabul",
-   "Flag Adoption Year": 2021,
-   "Flag Age (Years)": 5,
-   "Highest Office Holder": "Supreme Leader Hibatullah Akhundzada",
-   "Office Holder Age (Years)": 58
- },
- {
-   "Country": "Armenia",
-   "Capital City": "Yerevan",
-   "Flag Adoption Year": 1990,
-   "Flag Age (Years)": 36,
-   "Highest Office Holder": "President Vahagn Khachaturyan",
-   "Office Holder Age (Years)": 66
- },
- {
-   "Country": "Azerbaijan",
-   "Capital City": "Baku",
-   "Flag Adoption Year": 1991,
-   "Flag Age (Years)": 35,
-   "Highest Office Holder": "President Ilham Aliyev",
-   "Office Holder Age (Years)": 64
- },
- {
-   "Country": "Bahrain",
-   "Capital City": "Manama",
-   "Flag Adoption Year": 2002,
-   "Flag Age (Years)": 24,
-   "Highest Office Holder": "King Hamad bin Isa Al Khalifa",
-   "Office Holder Age (Years)": 76
- },
- {
-   "Country": "Bangladesh",
-   "Capital City": "Dhaka",
-   "Flag Adoption Year": 1972,
-   "Flag Age (Years)": 54,
-   "Highest Office Holder": "PM Tarique Rahman",
-   "Office Holder Age (Years)": 58
- },
- {
-   "Country": "Bhutan",
-   "Capital City": "Thimphu",
-   "Flag Adoption Year": 1969,
-   "Flag Age (Years)": 57,
-   "Highest Office Holder": "King Jigme Khesar Namgyel Wangchuck",
-   "Office Holder Age (Years)": 46
- },
- {
-   "Country": "Brunei",
-   "Capital City": "Bandar Seri Begawan",
-   "Flag Adoption Year": 1959,
-   "Flag Age (Years)": 67,
-   "Highest Office Holder": "Sultan Hassanal Bolkiah",
-   "Office Holder Age (Years)": 79
- },
- {
-   "Country": "Cambodia",
-   "Capital City": "Phnom Penh",
-   "Flag Adoption Year": 1993,
-   "Flag Age (Years)": 33,
-   "Highest Office Holder": "PM Hun Manet",
-   "Office Holder Age (Years)": 48
- },
- {
-   "Country": "China",
-   "Capital City": "Beijing",
-   "Flag Adoption Year": 1949,
-   "Flag Age (Years)": 77,
-   "Highest Office Holder": "President Xi Jinping",
-   "Office Holder Age (Years)": 72
- },
- {
-   "Country": "Georgia",
-   "Capital City": "Tbilisi",
-   "Flag Adoption Year": 2004,
-   "Flag Age (Years)": 22,
-   "Highest Office Holder": "PM Irakli Kobakhidze",
-   "Office Holder Age (Years)": 47
- },
- {
-   "Country": "India",
-   "Capital City": "New Delhi",
-   "Flag Adoption Year": 1947,
-   "Flag Age (Years)": 79,
-   "Highest Office Holder": "PM Narendra Modi",
-   "Office Holder Age (Years)": 75
- },
- {
-   "Country": "Indonesia",
-   "Capital City": "Jakarta",
-   "Flag Adoption Year": 1945,
-   "Flag Age (Years)": 81,
-   "Highest Office Holder": "President Prabowo Subianto",
-   "Office Holder Age (Years)": 74
- },
- {
-   "Country": "Iran",
-   "Capital City": "Tehran",
-   "Flag Adoption Year": 1980,
-   "Flag Age (Years)": 46,
-   "Highest Office Holder": "Supreme Leader Mojtaba Khamenei",
-   "Office Holder Age (Years)": 56
- },
- {
-   "Country": "Iraq",
-   "Capital City": "Baghdad",
-   "Flag Adoption Year": 2008,
-   "Flag Age (Years)": 18,
-   "Highest Office Holder": "President Nizar Amedi",
-   "Office Holder Age (Years)": 58
- },
- {
-   "Country": "Israel",
-   "Capital City": "Jerusalem",
-   "Flag Adoption Year": 1948,
-   "Flag Age (Years)": 78,
-   "Highest Office Holder": "PM Benjamin Netanyahu",
-   "Office Holder Age (Years)": 76
- },
- {
-   "Country": "Japan",
-   "Capital City": "Tokyo",
-   "Flag Adoption Year": 1870,
-   "Flag Age (Years)": 156,
-   "Highest Office Holder": "PM Sanae Takaichi",
-   "Office Holder Age (Years)": 65
- },
- {
-   "Country": "Jordan",
-   "Capital City": "Amman",
-   "Flag Adoption Year": 1928,
-   "Flag Age (Years)": 98,
-   "Highest Office Holder": "King Abdullah II",
-   "Office Holder Age (Years)": 64
- },
- {
-   "Country": "Kazakhstan",
-   "Capital City": "Astana",
-   "Flag Adoption Year": 1992,
-   "Flag Age (Years)": 34,
-   "Highest Office Holder": "President Kassym-Jomart Tokayev",
-   "Office Holder Age (Years)": 72
- },
- {
-   "Country": "Kuwait",
-   "Capital City": "Kuwait City",
-   "Flag Adoption Year": 1961,
-   "Flag Age (Years)": 65,
-   "Highest Office Holder": "Emir Mishal Al-Sabah",
-   "Office Holder Age (Years)": 85
- },
- {
-   "Country": "Kyrgyzstan",
-   "Capital City": "Bishkek",
-   "Flag Adoption Year": 2023,
-   "Flag Age (Years)": 3,
-   "Highest Office Holder": "President Sadyr Japarov",
-   "Office Holder Age (Years)": 57
- },
- {
-   "Country": "Laos",
-   "Capital City": "Vientiane",
-   "Flag Adoption Year": 1975,
-   "Flag Age (Years)": 51,
-   "Highest Office Holder": "President Thongloun Sisoulith",
-   "Office Holder Age (Years)": 80
- },
- {
-   "Country": "Lebanon",
-   "Capital City": "Beirut",
-   "Flag Adoption Year": 1943,
-   "Flag Age (Years)": 83,
-   "Highest Office Holder": "President Joseph Aoun",
-   "Office Holder Age (Years)": 62
- },
- {
-   "Country": "Malaysia",
-   "Capital City": "Kuala Lumpur",
-   "Flag Adoption Year": 1950,
-   "Flag Age (Years)": 76,
-   "Highest Office Holder": "King Ibrahim Iskandar",
-   "Office Holder Age (Years)": 67
- },
- {
-   "Country": "Maldives",
-   "Capital City": "Male",
-   "Flag Adoption Year": 1965,
-   "Flag Age (Years)": 61,
-   "Highest Office Holder": "President Mohamed Muizzu",
-   "Office Holder Age (Years)": 47
- },
- {
-   "Country": "Mongolia",
-   "Capital City": "Ulaanbaatar",
-   "Flag Adoption Year": 1992,
-   "Flag Age (Years)": 34,
-   "Highest Office Holder": "PM Nyam-Osoryn Uchral",
-   "Office Holder Age (Years)": 39
- },
- {
-   "Country": "Myanmar",
-   "Capital City": "Naypyidaw",
-   "Flag Adoption Year": 2010,
-   "Flag Age (Years)": 16,
-   "Highest Office Holder": "General Min Aung Hlaing",
-   "Office Holder Age (Years)": 69
- },
- {
-   "Country": "Nepal",
-   "Capital City": "Kathmandu",
-   "Flag Adoption Year": 1962,
-   "Flag Age (Years)": 64,
-   "Highest Office Holder": "PM Balendra Shah",
-   "Office Holder Age (Years)": 35
- },
- {
-   "Country": "North Korea",
-   "Capital City": "Pyongyang",
-   "Flag Adoption Year": 1948,
-   "Flag Age (Years)": 78,
-   "Highest Office Holder": "Supreme Leader Kim Jong Un",
-   "Office Holder Age (Years)": 42
- },
- {
-   "Country": "Oman",
-   "Capital City": "Muscat",
-   "Flag Adoption Year": 1995,
-   "Flag Age (Years)": 31,
-   "Highest Office Holder": "Sultan Haitham bin Tariq",
-   "Office Holder Age (Years)": 71
- },
- {
-   "Country": "Pakistan",
-   "Capital City": "Islamabad",
-   "Flag Adoption Year": 1947,
-   "Flag Age (Years)": 79,
-   "Highest Office Holder": "PM Shehbaz Sharif",
-   "Office Holder Age (Years)": 74
- },
- {
-   "Country": "Palestine",
-   "Capital City": "Jerusalem",
-   "Flag Adoption Year": 1988,
-   "Flag Age (Years)": 38,
-   "Highest Office Holder": "President Mahmoud Abbas",
-   "Office Holder Age (Years)": 90
- },
- {
-   "Country": "Philippines",
-   "Capital City": "Manila",
-   "Flag Adoption Year": 1898,
-   "Flag Age (Years)": 128,
-   "Highest Office Holder": "President Bongbong Marcos",
-   "Office Holder Age (Years)": 68
- },
- {
-   "Country": "Qatar",
-   "Capital City": "Doha",
-   "Flag Adoption Year": 1971,
-   "Flag Age (Years)": 55,
-   "Highest Office Holder": "Emir Tamim bin Hamad Al Thani",
-   "Office Holder Age (Years)": 45
- },
- {
-   "Country": "Saudi Arabia",
-   "Capital City": "Riyadh",
-   "Flag Adoption Year": 1973,
-   "Flag Age (Years)": 53,
-   "Highest Office Holder": "King Salman bin Abdulaziz",
-   "Office Holder Age (Years)": 90
- },
- {
-   "Country": "Singapore",
-   "Capital City": "Singapore",
-   "Flag Adoption Year": 1959,
-   "Flag Age (Years)": 67,
-   "Highest Office Holder": "PM Lawrence Wong",
-   "Office Holder Age (Years)": 53
- },
- {
-   "Country": "South Korea",
-   "Capital City": "Seoul",
-   "Flag Adoption Year": 1883,
-   "Flag Age (Years)": 143,
-   "Highest Office Holder": "President Lee Jae Myung",
-   "Office Holder Age (Years)": 61
- },
- {
-   "Country": "Sri Lanka",
-   "Capital City": "Colombo",
-   "Flag Adoption Year": 1972,
-   "Flag Age (Years)": 54,
-   "Highest Office Holder": "President Anura Kumara Dissanayake",
-   "Office Holder Age (Years)": 57
- },
- {
-   "Country": "Syria",
-   "Capital City": "Damascus",
-   "Flag Adoption Year": 2025,
-   "Flag Age (Years)": 1,
-   "Highest Office Holder": "President Ahmed al-Sharaa",
-   "Office Holder Age (Years)": 44
- },
- {
-   "Country": "Taiwan",
-   "Capital City": "Taipei",
-   "Flag Adoption Year": 1928,
-   "Flag Age (Years)": 98,
-   "Highest Office Holder": "President Lai Ching-te",
-   "Office Holder Age (Years)": 66
- },
- {
-   "Country": "Tajikistan",
-   "Capital City": "Dushanbe",
-   "Flag Adoption Year": 1992,
-   "Flag Age (Years)": 34,
-   "Highest Office Holder": "President Emomali Rahmon",
-   "Office Holder Age (Years)": 73
- },
- {
-   "Country": "Thailand",
-   "Capital City": "Bangkok",
-   "Flag Adoption Year": 1917,
-   "Flag Age (Years)": 109,
-   "Highest Office Holder": "PM Paetongtarn Shinawatra",
-   "Office Holder Age (Years)": 39
- },
- {
-   "Country": "Timor-Leste",
-   "Capital City": "Dili",
-   "Flag Adoption Year": 2002,
-   "Flag Age (Years)": 24,
-   "Highest Office Holder": "PM Xanana Gusmão",
-   "Office Holder Age (Years)": 79
- },
- {
-   "Country": "Turkey",
-   "Capital City": "Ankara",
-   "Flag Adoption Year": 1844,
-   "Flag Age (Years)": 182,
-   "Highest Office Holder": "President Recep Tayyip Erdoğan",
-   "Office Holder Age (Years)": 72
- },
- {
-   "Country": "Turkmenistan",
-   "Capital City": "Ashgabat",
-   "Flag Adoption Year": 1992,
-   "Flag Age (Years)": 34,
-   "Highest Office Holder": "President Serdar Berdimuhamedow",
-   "Office Holder Age (Years)": 44
- },
- {
-   "Country": "UAE",
-   "Capital City": "Abu Dhabi",
-   "Flag Adoption Year": 1971,
-   "Flag Age (Years)": 55,
-   "Highest Office Holder": "President Mohamed bin Zayed",
-   "Office Holder Age (Years)": 65
- },
- {
-   "Country": "Uzbekistan",
-   "Capital City": "Tashkent",
-   "Flag Adoption Year": 1991,
-   "Flag Age (Years)": 35,
-   "Highest Office Holder": "President Shavkat Mirziyoyev",
-   "Office Holder Age (Years)": 68
- },
- {
-   "Country": "Vietnam",
-   "Capital City": "Hanoi",
-   "Flag Adoption Year": 1945,
-   "Flag Age (Years)": 81,
-   "Highest Office Holder": "President Lương Cường",
-   "Office Holder Age (Years)": 68
- },
- {
-   "Country": "Yemen",
-   "Capital City": "Sana'a",
-   "Flag Adoption Year": 1990,
-   "Flag Age (Years)": 36,
-   "Highest Office Holder": "Chairman Rashad al-Alimi",
-   "Office Holder Age (Years)": 72
- },
- {
-   "Country": "Antigua / Barbuda",
-   "Capital City": "Saint John's",
-   "Flag Adoption Year": 1967,
-   "Flag Age (Years)": 59,
-   "Highest Office Holder": "PM Gaston Browne",
-   "Office Holder Age (Years)": 59
- },
- {
-   "Country": "Argentina",
-   "Capital City": "Buenos Aires",
-   "Flag Adoption Year": 1812,
-   "Flag Age (Years)": 214,
-   "Highest Office Holder": "President Javier Milei",
-   "Office Holder Age (Years)": 55
- },
- {
-   "Country": "Bahamas",
-   "Capital City": "Nassau",
-   "Flag Adoption Year": 1973,
-   "Flag Age (Years)": 53,
-   "Highest Office Holder": "PM Philip Davis",
-   "Office Holder Age (Years)": 74
- },
- {
-   "Country": "Barbados",
-   "Capital City": "Bridgetown",
-   "Flag Adoption Year": 1966,
-   "Flag Age (Years)": 60,
-   "Highest Office Holder": "PM Mia Mottley",
-   "Office Holder Age (Years)": 60
- },
- {
-   "Country": "Belize",
-   "Capital City": "Belmopan",
-   "Flag Adoption Year": 1981,
-   "Flag Age (Years)": 45,
-   "Highest Office Holder": "PM Johnny Briceño",
-   "Office Holder Age (Years)": 65
- },
- {
-   "Country": "Bolivia",
-   "Capital City": "Sucre",
-   "Flag Adoption Year": 1851,
-   "Flag Age (Years)": 175,
-   "Highest Office Holder": "President Rodrigo Paz Pereira",
-   "Office Holder Age (Years)": 58
- },
- {
-   "Country": "Brazil",
-   "Capital City": "Brasilia",
-   "Flag Adoption Year": 1992,
-   "Flag Age (Years)": 34,
-   "Highest Office Holder": "President Luiz Inácio Lula da Silva",
-   "Office Holder Age (Years)": 80
- },
- {
-   "Country": "Canada",
-   "Capital City": "Ottawa",
-   "Flag Adoption Year": 1965,
-   "Flag Age (Years)": 61,
-   "Highest Office Holder": "PM Mark Carney",
-   "Office Holder Age (Years)": 61
- },
- {
-   "Country": "Chile",
-   "Capital City": "Santiago",
-   "Flag Adoption Year": 1817,
-   "Flag Age (Years)": 209,
-   "Highest Office Holder": "President José Antonio Kast",
-   "Office Holder Age (Years)": 60
- },
- {
-   "Country": "Colombia",
-   "Capital City": "Bogota",
-   "Flag Adoption Year": 1861,
-   "Flag Age (Years)": 165,
-   "Highest Office Holder": "President Gustavo Petro",
-   "Office Holder Age (Years)": 65
- },
- {
-   "Country": "Costa Rica",
-   "Capital City": "San Jose",
-   "Flag Adoption Year": 1848,
-   "Flag Age (Years)": 178,
-   "Highest Office Holder": "President Rodrigo Chaves Robles",
-   "Office Holder Age (Years)": 64
- },
- {
-   "Country": "Cuba",
-   "Capital City": "Havana",
-   "Flag Adoption Year": 1902,
-   "Flag Age (Years)": 124,
-   "Highest Office Holder": "President Miguel Díaz-Canel",
-   "Office Holder Age (Years)": 65
- },
- {
-   "Country": "Dominica",
-   "Capital City": "Roseau",
-   "Flag Adoption Year": 1990,
-   "Flag Age (Years)": 36,
-   "Highest Office Holder": "PM Roosevelt Skerrit",
-   "Office Holder Age (Years)": 53
- },
- {
-   "Country": "Dominican Rep.",
-   "Capital City": "Santo Domingo",
-   "Flag Adoption Year": 1908,
-   "Flag Age (Years)": 118,
-   "Highest Office Holder": "President Luis Abinader",
-   "Office Holder Age (Years)": 58
- },
- {
-   "Country": "Ecuador",
-   "Capital City": "Quito",
-   "Flag Adoption Year": 1900,
-   "Flag Age (Years)": 126,
-   "Highest Office Holder": "President Daniel Noboa",
-   "Office Holder Age (Years)": 38
- },
- {
-   "Country": "El Salvador",
-   "Capital City": "San Salvador",
-   "Flag Adoption Year": 1912,
-   "Flag Age (Years)": 114,
-   "Highest Office Holder": "President Nayib Bukele",
-   "Office Holder Age (Years)": 44
- },
- {
-   "Country": "Grenada",
-   "Capital City": "St. George's",
-   "Flag Adoption Year": 1974,
-   "Flag Age (Years)": 52,
-   "Highest Office Holder": "PM Dickon Mitchell",
-   "Office Holder Age (Years)": 47
- },
- {
-   "Country": "Guatemala",
-   "Capital City": "Guatemala City",
-   "Flag Adoption Year": 1871,
-   "Flag Age (Years)": 155,
-   "Highest Office Holder": "President Bernardo Arévalo",
-   "Office Holder Age (Years)": 67
- },
- {
-   "Country": "Guyana",
-   "Capital City": "Georgetown",
-   "Flag Adoption Year": 1966,
-   "Flag Age (Years)": 60,
-   "Highest Office Holder": "President Irfaan Ali",
-   "Office Holder Age (Years)": 45
- },
- {
-   "Country": "Haiti",
-   "Capital City": "Port-au-Prince",
-   "Flag Adoption Year": 1986,
-   "Flag Age (Years)": 40,
-   "Highest Office Holder": "Acting President Alix Didier Fils-Aimé",
-   "Office Holder Age (Years)": 54
- },
- {
-   "Country": "Honduras",
-   "Capital City": "Tegucigalpa",
-   "Flag Adoption Year": 2026,
-   "Flag Age (Years)": 0,
-   "Highest Office Holder": "President Nasry Asfura",
-   "Office Holder Age (Years)": 67
- },
- {
-   "Country": "Jamaica",
-   "Capital City": "Kingston",
-   "Flag Adoption Year": 1962,
-   "Flag Age (Years)": 64,
-   "Highest Office Holder": "PM Andrew Holness",
-   "Office Holder Age (Years)": 53
- },
- {
-   "Country": "Mexico",
-   "Capital City": "Mexico City",
-   "Flag Adoption Year": 1968,
-   "Flag Age (Years)": 58,
-   "Highest Office Holder": "President Claudia Sheinbaum",
-   "Office Holder Age (Years)": 63
- },
- {
-   "Country": "Nicaragua",
-   "Capital City": "Managua",
-   "Flag Adoption Year": 1908,
-   "Flag Age (Years)": 118,
-   "Highest Office Holder": "President Daniel Ortega",
-   "Office Holder Age (Years)": 80
- },
- {
-   "Country": "Panama",
-   "Capital City": "Panama City",
-   "Flag Adoption Year": 1925,
-   "Flag Age (Years)": 101,
-   "Highest Office Holder": "President José Raúl Mulino",
-   "Office Holder Age (Years)": 66
- },
- {
-   "Country": "Paraguay",
-   "Capital City": "Asuncion",
-   "Flag Adoption Year": 1842,
-   "Flag Age (Years)": 184,
-   "Highest Office Holder": "President Santiago Peña",
-   "Office Holder Age (Years)": 47
- },
- {
-   "Country": "Peru",
-   "Capital City": "Lima",
-   "Flag Adoption Year": 1825,
-   "Flag Age (Years)": 201,
-   "Highest Office Holder": "President José Jerí",
-   "Office Holder Age (Years)": 40
- },
- {
-   "Country": "Saint Kitts / Nevis",
-   "Capital City": "Basseterre",
-   "Flag Adoption Year": 1983,
-   "Flag Age (Years)": 43,
-   "Highest Office Holder": "PM Terrance Drew",
-   "Office Holder Age (Years)": 53
- },
- {
-   "Country": "Saint Lucia",
-   "Capital City": "Castries",
-   "Flag Adoption Year": 1979,
-   "Flag Age (Years)": 47,
-   "Highest Office Holder": "PM Philip J. Pierre",
-   "Office Holder Age (Years)": 71
- },
- {
-   "Country": "Saint Vincent",
-   "Capital City": "Kingstown",
-   "Flag Adoption Year": 1985,
-   "Flag Age (Years)": 41,
-   "Highest Office Holder": "PM Ralph Gonsalves",
-   "Office Holder Age (Years)": 79
- },
- {
-   "Country": "Suriname",
-   "Capital City": "Paramaribo",
-   "Flag Adoption Year": 1975,
-   "Flag Age (Years)": 51,
-   "Highest Office Holder": "President Chan Santokhi",
-   "Office Holder Age (Years)": 67
- },
- {
-   "Country": "Trinidad / Tobago",
-   "Capital City": "Port of Spain",
-   "Flag Adoption Year": 1962,
-   "Flag Age (Years)": 64,
-   "Highest Office Holder": "PM Keith Rowley",
-   "Office Holder Age (Years)": 76
- },
- {
-   "Country": "United States",
-   "Capital City": "Washington. D.C.",
-   "Flag Adoption Year": 1960,
-   "Flag Age (Years)": 66,
-   "Highest Office Holder": "President Donald Trump",
-   "Office Holder Age (Years)": 79
- },
- {
-   "Country": "Uruguay",
-   "Capital City": "Montevideo",
-   "Flag Adoption Year": 1828,
-   "Flag Age (Years)": 198,
-   "Highest Office Holder": "President Álvaro Delgado",
-   "Office Holder Age (Years)": 57
- },
- {
-   "Country": "Venezuela",
-   "Capital City": "Caracas",
-   "Flag Adoption Year": 2006,
-   "Flag Age (Years)": 20,
-   "Highest Office Holder": "President Nicolás Maduro",
-   "Office Holder Age (Years)": 63
- },
- {
-   "Country": "Australia",
-   "Capital City": "Canberra",
-   "Flag Adoption Year": 1901,
-   "Flag Age (Years)": 125,
-   "Highest Office Holder": "PM Anthony Albanese",
-   "Office Holder Age (Years)": 63
- },
- {
-   "Country": "Fiji",
-   "Capital City": "Suva",
-   "Flag Adoption Year": 1970,
-   "Flag Age (Years)": 56,
-   "Highest Office Holder": "PM Sitiveni Rabuka",
-   "Office Holder Age (Years)": 77
- },
- {
-   "Country": "Kiribati",
-   "Capital City": "Tarawa",
-   "Flag Adoption Year": 1979,
-   "Flag Age (Years)": 47,
-   "Highest Office Holder": "President Taneti Maamau",
-   "Office Holder Age (Years)": 65
- },
- {
-   "Country": "Marshall Islands",
-   "Capital City": "Majuro",
-   "Flag Adoption Year": 1979,
-   "Flag Age (Years)": 47,
-   "Highest Office Holder": "President Hilda Heine",
-   "Office Holder Age (Years)": 75
- },
- {
-   "Country": "Micronesia",
-   "Capital City": "Palikir",
-   "Flag Adoption Year": 1979,
-   "Flag Age (Years)": 47,
-   "Highest Office Holder": "President Wesley Simina",
-   "Office Holder Age (Years)": 70
- },
- {
-   "Country": "Nauru",
-   "Capital City": "Yaren",
-   "Flag Adoption Year": 1968,
-   "Flag Age (Years)": 58,
-   "Highest Office Holder": "President David Adeang",
-   "Office Holder Age (Years)": 56
- },
- {
-   "Country": "New Zealand",
-   "Capital City": "Wellington",
-   "Flag Adoption Year": 1947,
-   "Flag Age (Years)": 79,
-   "Highest Office Holder": "PM Christopher Luxon",
-   "Office Holder Age (Years)": 55
- },
- {
-   "Country": "Palau",
-   "Capital City": "Ngerulmud",
-   "Flag Adoption Year": 1981,
-   "Flag Age (Years)": 45,
-   "Highest Office Holder": "President Surangel Whipps Jr.",
-   "Office Holder Age (Years)": 57
- },
- {
-   "Country": "Papua New Guinea",
-   "Capital City": "Port Moresby",
-   "Flag Adoption Year": 1975,
-   "Flag Age (Years)": 51,
-   "Highest Office Holder": "PM James Marape",
-   "Office Holder Age (Years)": 55
- },
- {
-   "Country": "Samoa",
-   "Capital City": "Apia",
-   "Flag Adoption Year": 1949,
-   "Flag Age (Years)": 77,
-   "Highest Office Holder": "PM Fiamē Naomi Mataʻafa",
-   "Office Holder Age (Years)": 69
- },
- {
-   "Country": "Solomon Islands",
-   "Capital City": "Honiara",
-   "Flag Adoption Year": 1977,
-   "Flag Age (Years)": 49,
-   "Highest Office Holder": "PM Jeremiah Manele",
-   "Office Holder Age (Years)": 57
- },
- {
-   "Country": "Tonga",
-   "Capital City": "Nuku'alofa",
-   "Flag Adoption Year": 1875,
-   "Flag Age (Years)": 151,
-   "Highest Office Holder": "King Tupou VI",
-   "Office Holder Age (Years)": 66
- },
- {
-   "Country": "Tuvalu",
-   "Capital City": "Funafuti",
-   "Flag Adoption Year": 1997,
-   "Flag Age (Years)": 29,
-   "Highest Office Holder": "PM Feleti Teo",
-   "Office Holder Age (Years)": 63
- },
- {
-   "Country": "Vanuatu",
-   "Capital City": "Port Vila",
-   "Flag Adoption Year": 1980,
-   "Flag Age (Years)": 46,
-   "Highest Office Holder": "PM Charlot Salwai",
-   "Office Holder Age (Years)": 63
- }
+  {
+    "Country": "Algeria",
+    "Capital City": "Algiers",
+    "Flag Adoption Year": "1962",
+    "Flag Age (Years)": "64",
+    "Highest Office Holder": "President Abdelmadjid Tebboune",
+    "Office Holder Age (Years)": "80",
+    "Country Formation Year": 1962,
+    "Country Age (Years)": 64
+  },
+  {
+    "Country": "Angola",
+    "Capital City": "Luanda",
+    "Flag Adoption Year": "1975",
+    "Flag Age (Years)": "51",
+    "Highest Office Holder": "President Jo\u00e3o Louren\u00e7o",
+    "Office Holder Age (Years)": "72",
+    "Country Formation Year": 1975,
+    "Country Age (Years)": 51
+  },
+  {
+    "Country": "Benin",
+    "Capital City": "Porto-Novo",
+    "Flag Adoption Year": "1959",
+    "Flag Age (Years)": "67",
+    "Highest Office Holder": "President Romuald Wadagni",
+    "Office Holder Age (Years)": "49",
+    "Country Formation Year": 1960,
+    "Country Age (Years)": 66
+  },
+  {
+    "Country": "Botswana",
+    "Capital City": "Gaborone",
+    "Flag Adoption Year": "1966",
+    "Flag Age (Years)": "60",
+    "Highest Office Holder": "President Duma Boko",
+    "Office Holder Age (Years)": "56",
+    "Country Formation Year": 1966,
+    "Country Age (Years)": 60
+  },
+  {
+    "Country": "Burkina Faso",
+    "Capital City": "Ouagadougou",
+    "Flag Adoption Year": "1984",
+    "Flag Age (Years)": "42",
+    "Highest Office Holder": "President Ibrahim Traor\u00e9",
+    "Office Holder Age (Years)": "38",
+    "Country Formation Year": 1960,
+    "Country Age (Years)": 66
+  },
+  {
+    "Country": "Burundi",
+    "Capital City": "Gitega",
+    "Flag Adoption Year": "1967",
+    "Flag Age (Years)": "59",
+    "Highest Office Holder": "President \u00c9variste Ndayishimiye",
+    "Office Holder Age (Years)": "57",
+    "Country Formation Year": 1962,
+    "Country Age (Years)": 64
+  },
+  {
+    "Country": "Cameroon",
+    "Capital City": "Yaounde",
+    "Flag Adoption Year": "1975",
+    "Flag Age (Years)": "51",
+    "Highest Office Holder": "President Paul Biya",
+    "Office Holder Age (Years)": "93",
+    "Country Formation Year": 1960,
+    "Country Age (Years)": 66
+  },
+  {
+    "Country": "Cape Verde",
+    "Capital City": "Praia",
+    "Flag Adoption Year": "1992",
+    "Flag Age (Years)": "34",
+    "Highest Office Holder": "President Jos\u00e9 Maria Neves",
+    "Office Holder Age (Years)": "66",
+    "Country Formation Year": 1975,
+    "Country Age (Years)": 51
+  },
+  {
+    "Country": "Central African Rep.",
+    "Capital City": "Bangui",
+    "Flag Adoption Year": "1958",
+    "Flag Age (Years)": "68",
+    "Highest Office Holder": "President Faustin-Archange Touad\u00e9ra",
+    "Office Holder Age (Years)": "69",
+    "Country Formation Year": 1960,
+    "Country Age (Years)": 66
+  },
+  {
+    "Country": "Chad",
+    "Capital City": "N'Djamena",
+    "Flag Adoption Year": "1959",
+    "Flag Age (Years)": "67",
+    "Highest Office Holder": "President Mahamat D\u00e9by",
+    "Office Holder Age (Years)": "42",
+    "Country Formation Year": 1960,
+    "Country Age (Years)": 66
+  },
+  {
+    "Country": "Comoros",
+    "Capital City": "Moroni",
+    "Flag Adoption Year": "2001",
+    "Flag Age (Years)": "25",
+    "Highest Office Holder": "President Azali Assoumani",
+    "Office Holder Age (Years)": "67",
+    "Country Formation Year": 1975,
+    "Country Age (Years)": 51
+  },
+  {
+    "Country": "Congo (DR)",
+    "Capital City": "Kinshasa",
+    "Flag Adoption Year": "2006",
+    "Flag Age (Years)": "20",
+    "Highest Office Holder": "President F\u00e9lix Tshisekedi",
+    "Office Holder Age (Years)": "62",
+    "Country Formation Year": 1960,
+    "Country Age (Years)": 66
+  },
+  {
+    "Country": "Congo (Republic)",
+    "Capital City": "Brazzaville",
+    "Flag Adoption Year": "1991",
+    "Flag Age (Years)": "35",
+    "Highest Office Holder": "President Denis Sassou Nguesso",
+    "Office Holder Age (Years)": "82",
+    "Country Formation Year": 1960,
+    "Country Age (Years)": 66
+  },
+  {
+    "Country": "Cote d'Ivoire",
+    "Capital City": "Yamoussoukro",
+    "Flag Adoption Year": "1959",
+    "Flag Age (Years)": "67",
+    "Highest Office Holder": "President Alassane Ouattara",
+    "Office Holder Age (Years)": "84",
+    "Country Formation Year": 1960,
+    "Country Age (Years)": 66
+  },
+  {
+    "Country": "Djibouti",
+    "Capital City": "Djibouti",
+    "Flag Adoption Year": "1977",
+    "Flag Age (Years)": "49",
+    "Highest Office Holder": "President Isma\u00efl Omar Guelleh",
+    "Office Holder Age (Years)": "78",
+    "Country Formation Year": 1977,
+    "Country Age (Years)": 49
+  },
+  {
+    "Country": "Egypt",
+    "Capital City": "Cairo",
+    "Flag Adoption Year": "1984",
+    "Flag Age (Years)": "42",
+    "Highest Office Holder": "President Abdel Fattah el-Sisi",
+    "Office Holder Age (Years)": "71",
+    "Country Formation Year": 1922,
+    "Country Age (Years)": 104
+  },
+  {
+    "Country": "Equatorial Guinea",
+    "Capital City": "Malabo",
+    "Flag Adoption Year": "1979",
+    "Flag Age (Years)": "47",
+    "Highest Office Holder": "President Teodoro Obiang Nguema Mbasogo",
+    "Office Holder Age (Years)": "83",
+    "Country Formation Year": 1968,
+    "Country Age (Years)": 58
+  },
+  {
+    "Country": "Eritrea",
+    "Capital City": "Asmara",
+    "Flag Adoption Year": "1993",
+    "Flag Age (Years)": "33",
+    "Highest Office Holder": "President Isaias Afwerki",
+    "Office Holder Age (Years)": "80",
+    "Country Formation Year": 1993,
+    "Country Age (Years)": 33
+  },
+  {
+    "Country": "Eswatini",
+    "Capital City": "Mbabane",
+    "Flag Adoption Year": "1968",
+    "Flag Age (Years)": "58",
+    "Highest Office Holder": "King Mswati III",
+    "Office Holder Age (Years)": "58",
+    "Country Formation Year": 1968,
+    "Country Age (Years)": 58
+  },
+  {
+    "Country": "Ethiopia",
+    "Capital City": "Addis Ababa",
+    "Flag Adoption Year": "1996",
+    "Flag Age (Years)": "30",
+    "Highest Office Holder": "PM Abiy Ahmed",
+    "Office Holder Age (Years)": "49",
+    "Country Formation Year": -980,
+    "Country Age (Years)": 3006
+  },
+  {
+    "Country": "Gabon",
+    "Capital City": "Libreville",
+    "Flag Adoption Year": "1960",
+    "Flag Age (Years)": "66",
+    "Highest Office Holder": "President Brice Oligui Nguema",
+    "Office Holder Age (Years)": "51",
+    "Country Formation Year": 1960,
+    "Country Age (Years)": 66
+  },
+  {
+    "Country": "Gambia",
+    "Capital City": "Banjul",
+    "Flag Adoption Year": "1965",
+    "Flag Age (Years)": "61",
+    "Highest Office Holder": "President Adama Barrow",
+    "Office Holder Age (Years)": "61",
+    "Country Formation Year": 1965,
+    "Country Age (Years)": 61
+  },
+  {
+    "Country": "Ghana",
+    "Capital City": "Accra",
+    "Flag Adoption Year": "1966",
+    "Flag Age (Years)": "60",
+    "Highest Office Holder": "President John Mahama",
+    "Office Holder Age (Years)": "67",
+    "Country Formation Year": 1957,
+    "Country Age (Years)": 69
+  },
+  {
+    "Country": "Guinea",
+    "Capital City": "Conakry",
+    "Flag Adoption Year": "1958",
+    "Flag Age (Years)": "68",
+    "Highest Office Holder": "President Mamady Doumbouya",
+    "Office Holder Age (Years)": "46",
+    "Country Formation Year": 1958,
+    "Country Age (Years)": 68
+  },
+  {
+    "Country": "Guinea-Bissau",
+    "Capital City": "Bissau",
+    "Flag Adoption Year": "1973",
+    "Flag Age (Years)": "53",
+    "Highest Office Holder": "President Umaro Sissoco Embal\u00f3",
+    "Office Holder Age (Years)": "53",
+    "Country Formation Year": 1973,
+    "Country Age (Years)": 53
+  },
+  {
+    "Country": "Kenya",
+    "Capital City": "Nairobi",
+    "Flag Adoption Year": "1963",
+    "Flag Age (Years)": "63",
+    "Highest Office Holder": "President William Ruto",
+    "Office Holder Age (Years)": "59",
+    "Country Formation Year": 1963,
+    "Country Age (Years)": 63
+  },
+  {
+    "Country": "Lesotho",
+    "Capital City": "Maseru",
+    "Flag Adoption Year": "2006",
+    "Flag Age (Years)": "20",
+    "Highest Office Holder": "King Letsie III",
+    "Office Holder Age (Years)": "62",
+    "Country Formation Year": 1966,
+    "Country Age (Years)": 60
+  },
+  {
+    "Country": "Liberia",
+    "Capital City": "Monrovia",
+    "Flag Adoption Year": "1847",
+    "Flag Age (Years)": "179",
+    "Highest Office Holder": "President Joseph Boakai",
+    "Office Holder Age (Years)": "81",
+    "Country Formation Year": 1847,
+    "Country Age (Years)": 179
+  },
+  {
+    "Country": "Libya",
+    "Capital City": "Tripoli",
+    "Flag Adoption Year": "2011",
+    "Flag Age (Years)": "15",
+    "Highest Office Holder": "Chairman Mohamed al-Menfi",
+    "Office Holder Age (Years)": "50",
+    "Country Formation Year": 1951,
+    "Country Age (Years)": 75
+  },
+  {
+    "Country": "Madagascar",
+    "Capital City": "Antananarivo",
+    "Flag Adoption Year": "1958",
+    "Flag Age (Years)": "68",
+    "Highest Office Holder": "President Michael Randrianirina",
+    "Office Holder Age (Years)": "54",
+    "Country Formation Year": 1960,
+    "Country Age (Years)": 66
+  },
+  {
+    "Country": "Malawi",
+    "Capital City": "Lilongwe",
+    "Flag Adoption Year": "2012",
+    "Flag Age (Years)": "14",
+    "Highest Office Holder": "President Peter Mutharika",
+    "Office Holder Age (Years)": "85",
+    "Country Formation Year": 1964,
+    "Country Age (Years)": 62
+  },
+  {
+    "Country": "Mali",
+    "Capital City": "Bamako",
+    "Flag Adoption Year": "1961",
+    "Flag Age (Years)": "65",
+    "Highest Office Holder": "President Assimi Go\u00efta",
+    "Office Holder Age (Years)": "43",
+    "Country Formation Year": 1960,
+    "Country Age (Years)": 66
+  },
+  {
+    "Country": "Mauritania",
+    "Capital City": "Nouakchott",
+    "Flag Adoption Year": "2017",
+    "Flag Age (Years)": "9",
+    "Highest Office Holder": "President Mohamed Ould Ghazouani",
+    "Office Holder Age (Years)": "69",
+    "Country Formation Year": 1960,
+    "Country Age (Years)": 66
+  },
+  {
+    "Country": "Mauritius",
+    "Capital City": "Port Louis",
+    "Flag Adoption Year": "1968",
+    "Flag Age (Years)": "58",
+    "Highest Office Holder": "PM Pravind Jugnauth",
+    "Office Holder Age (Years)": "64",
+    "Country Formation Year": 1968,
+    "Country Age (Years)": 58
+  },
+  {
+    "Country": "Morocco",
+    "Capital City": "Rabat",
+    "Flag Adoption Year": "1915",
+    "Flag Age (Years)": "111",
+    "Highest Office Holder": "King Mohammed VI",
+    "Office Holder Age (Years)": "62",
+    "Country Formation Year": 1956,
+    "Country Age (Years)": 70
+  },
+  {
+    "Country": "Mozambique",
+    "Capital City": "Maputo",
+    "Flag Adoption Year": "1983",
+    "Flag Age (Years)": "43",
+    "Highest Office Holder": "President Daniel Chapo",
+    "Office Holder Age (Years)": "49",
+    "Country Formation Year": 1975,
+    "Country Age (Years)": 51
+  },
+  {
+    "Country": "Namibia",
+    "Capital City": "Windhoek",
+    "Flag Adoption Year": "1990",
+    "Flag Age (Years)": "36",
+    "Highest Office Holder": "President Nangolo Mbumba",
+    "Office Holder Age (Years)": "84",
+    "Country Formation Year": 1990,
+    "Country Age (Years)": 36
+  },
+  {
+    "Country": "Niger",
+    "Capital City": "Niamey",
+    "Flag Adoption Year": "1959",
+    "Flag Age (Years)": "67",
+    "Highest Office Holder": "General Abdourahamane Tchiani",
+    "Office Holder Age (Years)": "62",
+    "Country Formation Year": 1960,
+    "Country Age (Years)": 66
+  },
+  {
+    "Country": "Nigeria",
+    "Capital City": "Abuja",
+    "Flag Adoption Year": "1960",
+    "Flag Age (Years)": "66",
+    "Highest Office Holder": "President Bola Tinubu",
+    "Office Holder Age (Years)": "74",
+    "Country Formation Year": 1960,
+    "Country Age (Years)": 66
+  },
+  {
+    "Country": "Rwanda",
+    "Capital City": "Kigali",
+    "Flag Adoption Year": "2001",
+    "Flag Age (Years)": "25",
+    "Highest Office Holder": "President Paul Kagame",
+    "Office Holder Age (Years)": "68",
+    "Country Formation Year": 1962,
+    "Country Age (Years)": 64
+  },
+  {
+    "Country": "Sao Tome / Principe",
+    "Capital City": "Sao Tome",
+    "Flag Adoption Year": "1975",
+    "Flag Age (Years)": "51",
+    "Highest Office Holder": "President Carlos Vila Nova",
+    "Office Holder Age (Years)": "66",
+    "Country Formation Year": 1975,
+    "Country Age (Years)": 51
+  },
+  {
+    "Country": "Senegal",
+    "Capital City": "Dakar",
+    "Flag Adoption Year": "1960",
+    "Flag Age (Years)": "66",
+    "Highest Office Holder": "President Bassirou Diomaye Faye",
+    "Office Holder Age (Years)": "46",
+    "Country Formation Year": 1960,
+    "Country Age (Years)": 66
+  },
+  {
+    "Country": "Seychelles",
+    "Capital City": "Victoria",
+    "Flag Adoption Year": "1996",
+    "Flag Age (Years)": "30",
+    "Highest Office Holder": "President Wavel Ramkalawan",
+    "Office Holder Age (Years)": "65",
+    "Country Formation Year": 1976,
+    "Country Age (Years)": 50
+  },
+  {
+    "Country": "Sierra Leone",
+    "Capital City": "Freetown",
+    "Flag Adoption Year": "1961",
+    "Flag Age (Years)": "65",
+    "Highest Office Holder": "President Julius Maada Bio",
+    "Office Holder Age (Years)": "61",
+    "Country Formation Year": 1961,
+    "Country Age (Years)": 65
+  },
+  {
+    "Country": "Somalia",
+    "Capital City": "Mogadishu",
+    "Flag Adoption Year": "1960",
+    "Flag Age (Years)": "66",
+    "Highest Office Holder": "President Hassan Sheikh Mohamud",
+    "Office Holder Age (Years)": "70",
+    "Country Formation Year": 1960,
+    "Country Age (Years)": 66
+  },
+  {
+    "Country": "South Africa",
+    "Capital City": "Pretoria",
+    "Flag Adoption Year": "1994",
+    "Flag Age (Years)": "32",
+    "Highest Office Holder": "President Cyril Ramaphosa",
+    "Office Holder Age (Years)": "73",
+    "Country Formation Year": 1910,
+    "Country Age (Years)": 116
+  },
+  {
+    "Country": "South Sudan",
+    "Capital City": "Juba",
+    "Flag Adoption Year": "2011",
+    "Flag Age (Years)": "15",
+    "Highest Office Holder": "President Salva Kiir Mayardit",
+    "Office Holder Age (Years)": "74",
+    "Country Formation Year": 2011,
+    "Country Age (Years)": 15
+  },
+  {
+    "Country": "Sudan",
+    "Capital City": "Khartoum",
+    "Flag Adoption Year": "1970",
+    "Flag Age (Years)": "56",
+    "Highest Office Holder": "General Abdel Fattah al-Burhan",
+    "Office Holder Age (Years)": "65",
+    "Country Formation Year": 1956,
+    "Country Age (Years)": 70
+  },
+  {
+    "Country": "Tanzania",
+    "Capital City": "Dodoma",
+    "Flag Adoption Year": "1964",
+    "Flag Age (Years)": "62",
+    "Highest Office Holder": "President Samia Suluhu Hassan",
+    "Office Holder Age (Years)": "66",
+    "Country Formation Year": 1961,
+    "Country Age (Years)": 65
+  },
+  {
+    "Country": "Togo",
+    "Capital City": "Lome",
+    "Flag Adoption Year": "1960",
+    "Flag Age (Years)": "66",
+    "Highest Office Holder": "President Jean-Lucien Savi de Tov\u00e9",
+    "Office Holder Age (Years)": "86",
+    "Country Formation Year": 1960,
+    "Country Age (Years)": 66
+  },
+  {
+    "Country": "Tunisia",
+    "Capital City": "Tunis",
+    "Flag Adoption Year": "1831",
+    "Flag Age (Years)": "195",
+    "Highest Office Holder": "President Ka\u00efs Sa\u00efed",
+    "Office Holder Age (Years)": "68",
+    "Country Formation Year": 1956,
+    "Country Age (Years)": 70
+  },
+  {
+    "Country": "Uganda",
+    "Capital City": "Kampala",
+    "Flag Adoption Year": "1962",
+    "Flag Age (Years)": "64",
+    "Highest Office Holder": "President Yoweri Museveni",
+    "Office Holder Age (Years)": "81",
+    "Country Formation Year": 1962,
+    "Country Age (Years)": 64
+  },
+  {
+    "Country": "Zambia",
+    "Capital City": "Lusaka",
+    "Flag Adoption Year": "1964",
+    "Flag Age (Years)": "62",
+    "Highest Office Holder": "President Hakainde Hichilema",
+    "Office Holder Age (Years)": "63",
+    "Country Formation Year": 1964,
+    "Country Age (Years)": 62
+  },
+  {
+    "Country": "Zimbabwe",
+    "Capital City": "Harare",
+    "Flag Adoption Year": "1980",
+    "Flag Age (Years)": "46",
+    "Highest Office Holder": "President Emmerson Mnangagwa",
+    "Office Holder Age (Years)": "83",
+    "Country Formation Year": 1980,
+    "Country Age (Years)": 46
+  },
+  {
+    "Country": "Albania",
+    "Capital City": "Tirana",
+    "Flag Adoption Year": "1912",
+    "Flag Age (Years)": "114",
+    "Highest Office Holder": "President Bajram Begaj",
+    "Office Holder Age (Years)": "59",
+    "Country Formation Year": 1912,
+    "Country Age (Years)": 114
+  },
+  {
+    "Country": "Andorra",
+    "Capital City": "Andorra la Vella",
+    "Flag Adoption Year": "1971",
+    "Flag Age (Years)": "55",
+    "Highest Office Holder": "Co-Prince Emmanuel Macron",
+    "Office Holder Age (Years)": "48",
+    "Country Formation Year": 1278,
+    "Country Age (Years)": 748
+  },
+  {
+    "Country": "Austria",
+    "Capital City": "Vienna",
+    "Flag Adoption Year": "1918",
+    "Flag Age (Years)": "108",
+    "Highest Office Holder": "Chancellor Christian Stocker",
+    "Office Holder Age (Years)": "65",
+    "Country Formation Year": 1955,
+    "Country Age (Years)": 71
+  },
+  {
+    "Country": "Belarus",
+    "Capital City": "Minsk",
+    "Flag Adoption Year": "1995",
+    "Flag Age (Years)": "31",
+    "Highest Office Holder": "President Alexander Lukashenko",
+    "Office Holder Age (Years)": "71",
+    "Country Formation Year": 1991,
+    "Country Age (Years)": 35
+  },
+  {
+    "Country": "Belgium",
+    "Capital City": "Brussels",
+    "Flag Adoption Year": "1831",
+    "Flag Age (Years)": "195",
+    "Highest Office Holder": "PM Bart De Wever",
+    "Office Holder Age (Years)": "55",
+    "Country Formation Year": 1830,
+    "Country Age (Years)": 196
+  },
+  {
+    "Country": "Bosnia / Herz.",
+    "Capital City": "Sarajevo",
+    "Flag Adoption Year": "1998",
+    "Flag Age (Years)": "28",
+    "Highest Office Holder": "Chair Denis Be\u0107irovi\u0107",
+    "Office Holder Age (Years)": "51",
+    "Country Formation Year": 1992,
+    "Country Age (Years)": 34
+  },
+  {
+    "Country": "Bulgaria",
+    "Capital City": "Sofia",
+    "Flag Adoption Year": "1991",
+    "Flag Age (Years)": "35",
+    "Highest Office Holder": "President Iliana Iotova",
+    "Office Holder Age (Years)": "61",
+    "Country Formation Year": 1908,
+    "Country Age (Years)": 118
+  },
+  {
+    "Country": "Croatia",
+    "Capital City": "Zagreb",
+    "Flag Adoption Year": "1990",
+    "Flag Age (Years)": "36",
+    "Highest Office Holder": "PM Andrej Plenkovi\u0107",
+    "Office Holder Age (Years)": "56",
+    "Country Formation Year": 1991,
+    "Country Age (Years)": 35
+  },
+  {
+    "Country": "Cyprus",
+    "Capital City": "Nicosia",
+    "Flag Adoption Year": "1960",
+    "Flag Age (Years)": "66",
+    "Highest Office Holder": "President Nikos Christodoulides",
+    "Office Holder Age (Years)": "52",
+    "Country Formation Year": 1960,
+    "Country Age (Years)": 66
+  },
+  {
+    "Country": "Czech Republic",
+    "Capital City": "Prague",
+    "Flag Adoption Year": "1993",
+    "Flag Age (Years)": "33",
+    "Highest Office Holder": "PM Andrej Babi\u0161",
+    "Office Holder Age (Years)": "71",
+    "Country Formation Year": 1993,
+    "Country Age (Years)": 33
+  },
+  {
+    "Country": "Denmark",
+    "Capital City": "Copenhagen",
+    "Flag Adoption Year": "1625",
+    "Flag Age (Years)": "401",
+    "Highest Office Holder": "PM Mette Frederiksen",
+    "Office Holder Age (Years)": "48",
+    "Country Formation Year": 965,
+    "Country Age (Years)": 1061
+  },
+  {
+    "Country": "Estonia",
+    "Capital City": "Tallinn",
+    "Flag Adoption Year": "1918",
+    "Flag Age (Years)": "108",
+    "Highest Office Holder": "President Alar Karis",
+    "Office Holder Age (Years)": "68",
+    "Country Formation Year": 1918,
+    "Country Age (Years)": 108
+  },
+  {
+    "Country": "Finland",
+    "Capital City": "Helsinki",
+    "Flag Adoption Year": "1918",
+    "Flag Age (Years)": "108",
+    "Highest Office Holder": "President Alexander Stubb",
+    "Office Holder Age (Years)": "58",
+    "Country Formation Year": 1917,
+    "Country Age (Years)": 109
+  },
+  {
+    "Country": "France",
+    "Capital City": "Paris",
+    "Flag Adoption Year": "1830",
+    "Flag Age (Years)": "196",
+    "Highest Office Holder": "President Emmanuel Macron",
+    "Office Holder Age (Years)": "48",
+    "Country Formation Year": 843,
+    "Country Age (Years)": 1183
+  },
+  {
+    "Country": "Germany",
+    "Capital City": "Berlin",
+    "Flag Adoption Year": "1918",
+    "Flag Age (Years)": "108",
+    "Highest Office Holder": "Chancellor Friedrich Merz",
+    "Office Holder Age (Years)": "70",
+    "Country Formation Year": 1871,
+    "Country Age (Years)": 155
+  },
+  {
+    "Country": "Greece",
+    "Capital City": "Athens",
+    "Flag Adoption Year": "1978",
+    "Flag Age (Years)": "48",
+    "Highest Office Holder": "PM Kyriakos Mitsotakis",
+    "Office Holder Age (Years)": "58",
+    "Country Formation Year": 1821,
+    "Country Age (Years)": 205
+  },
+  {
+    "Country": "Hungary",
+    "Capital City": "Budapest",
+    "Flag Adoption Year": "1990",
+    "Flag Age (Years)": "36",
+    "Highest Office Holder": "PM P\u00e9ter Magyar",
+    "Office Holder Age (Years)": "45",
+    "Country Formation Year": 1000,
+    "Country Age (Years)": 1026
+  },
+  {
+    "Country": "Iceland",
+    "Capital City": "Reykjavik",
+    "Flag Adoption Year": "1944",
+    "Flag Age (Years)": "82",
+    "Highest Office Holder": "PM Kristr\u00fan Frostad\u00f3ttir",
+    "Office Holder Age (Years)": "37",
+    "Country Formation Year": 1944,
+    "Country Age (Years)": 82
+  },
+  {
+    "Country": "Ireland",
+    "Capital City": "Dublin",
+    "Flag Adoption Year": "1919",
+    "Flag Age (Years)": "107",
+    "Highest Office Holder": "President Catherine Connolly",
+    "Office Holder Age (Years)": "69",
+    "Country Formation Year": 1922,
+    "Country Age (Years)": 104
+  },
+  {
+    "Country": "Italy",
+    "Capital City": "Rome",
+    "Flag Adoption Year": "1943",
+    "Flag Age (Years)": "83",
+    "Highest Office Holder": "PM Giorgia Meloni",
+    "Office Holder Age (Years)": "49",
+    "Country Formation Year": 1861,
+    "Country Age (Years)": 165
+  },
+  {
+    "Country": "Latvia",
+    "Capital City": "Riga",
+    "Flag Adoption Year": "1921",
+    "Flag Age (Years)": "105",
+    "Highest Office Holder": "PM Evika Sili\u0146a",
+    "Office Holder Age (Years)": "51",
+    "Country Formation Year": 1918,
+    "Country Age (Years)": 108
+  },
+  {
+    "Country": "Liechtenstein",
+    "Capital City": "Vaduz",
+    "Flag Adoption Year": "1937",
+    "Flag Age (Years)": "89",
+    "Highest Office Holder": "Prince Hans-Adam II",
+    "Office Holder Age (Years)": "81",
+    "Country Formation Year": 1806,
+    "Country Age (Years)": 220
+  },
+  {
+    "Country": "Lithuania",
+    "Capital City": "Vilnius",
+    "Flag Adoption Year": "1988",
+    "Flag Age (Years)": "38",
+    "Highest Office Holder": "President Gitanas Naus\u0117da",
+    "Office Holder Age (Years)": "61",
+    "Country Formation Year": 1918,
+    "Country Age (Years)": 108
+  },
+  {
+    "Country": "Luxembourg",
+    "Capital City": "Luxembourg",
+    "Flag Adoption Year": "1972",
+    "Flag Age (Years)": "54",
+    "Highest Office Holder": "Grand Duke Guillaume V",
+    "Office Holder Age (Years)": "44",
+    "Country Formation Year": 1867,
+    "Country Age (Years)": 159
+  },
+  {
+    "Country": "Malta",
+    "Capital City": "Valletta",
+    "Flag Adoption Year": "1964",
+    "Flag Age (Years)": "62",
+    "Highest Office Holder": "President Myriam Spiteri Debono",
+    "Office Holder Age (Years)": "73",
+    "Country Formation Year": 1964,
+    "Country Age (Years)": 62
+  },
+  {
+    "Country": "Moldova",
+    "Capital City": "Chisinau",
+    "Flag Adoption Year": "1990",
+    "Flag Age (Years)": "36",
+    "Highest Office Holder": "President Maia Sandu",
+    "Office Holder Age (Years)": "53",
+    "Country Formation Year": 1991,
+    "Country Age (Years)": 35
+  },
+  {
+    "Country": "Monaco",
+    "Capital City": "Monaco",
+    "Flag Adoption Year": "1881",
+    "Flag Age (Years)": "145",
+    "Highest Office Holder": "Prince Albert II",
+    "Office Holder Age (Years)": "68",
+    "Country Formation Year": 1297,
+    "Country Age (Years)": 729
+  },
+  {
+    "Country": "Montenegro",
+    "Capital City": "Podgorica",
+    "Flag Adoption Year": "2004",
+    "Flag Age (Years)": "22",
+    "Highest Office Holder": "PM Milojko Spaji\u0107",
+    "Office Holder Age (Years)": "38",
+    "Country Formation Year": 2006,
+    "Country Age (Years)": 20
+  },
+  {
+    "Country": "Netherlands",
+    "Capital City": "Amsterdam",
+    "Flag Adoption Year": "1660",
+    "Flag Age (Years)": "366",
+    "Highest Office Holder": "PM Rob Jetten",
+    "Office Holder Age (Years)": "39",
+    "Country Formation Year": 1581,
+    "Country Age (Years)": 445
+  },
+  {
+    "Country": "North Macedonia",
+    "Capital City": "Skopje",
+    "Flag Adoption Year": "1995",
+    "Flag Age (Years)": "31",
+    "Highest Office Holder": "President Gordana Siljanovska-Davkova",
+    "Office Holder Age (Years)": "72",
+    "Country Formation Year": 1991,
+    "Country Age (Years)": 35
+  },
+  {
+    "Country": "Norway",
+    "Capital City": "Oslo",
+    "Flag Adoption Year": "1899",
+    "Flag Age (Years)": "127",
+    "Highest Office Holder": "King Harald V",
+    "Office Holder Age (Years)": "89",
+    "Country Formation Year": 1905,
+    "Country Age (Years)": 121
+  },
+  {
+    "Country": "Poland",
+    "Capital City": "Warsaw",
+    "Flag Adoption Year": "1919",
+    "Flag Age (Years)": "107",
+    "Highest Office Holder": "President Karol Nawrocki",
+    "Office Holder Age (Years)": "43",
+    "Country Formation Year": 1918,
+    "Country Age (Years)": 108
+  },
+  {
+    "Country": "Portugal",
+    "Capital City": "Lisbon",
+    "Flag Adoption Year": "1911",
+    "Flag Age (Years)": "115",
+    "Highest Office Holder": "President Ant\u00f3nio Jos\u00e9 Seguro",
+    "Office Holder Age (Years)": "64",
+    "Country Formation Year": 1139,
+    "Country Age (Years)": 887
+  },
+  {
+    "Country": "Romania",
+    "Capital City": "Bucharest",
+    "Flag Adoption Year": "1989",
+    "Flag Age (Years)": "37",
+    "Highest Office Holder": "President Nicu\u0219or Dan",
+    "Office Holder Age (Years)": "56",
+    "Country Formation Year": 1877,
+    "Country Age (Years)": 149
+  },
+  {
+    "Country": "Russia",
+    "Capital City": "Moscow",
+    "Flag Adoption Year": "1991",
+    "Flag Age (Years)": "35",
+    "Highest Office Holder": "President Vladimir Putin",
+    "Office Holder Age (Years)": "73",
+    "Country Formation Year": 1990,
+    "Country Age (Years)": 36
+  },
+  {
+    "Country": "San Marino",
+    "Capital City": "San Marino",
+    "Flag Adoption Year": "1862",
+    "Flag Age (Years)": "164",
+    "Highest Office Holder": "Captain Regent Alice Mina",
+    "Office Holder Age (Years)": "39",
+    "Country Formation Year": 301,
+    "Country Age (Years)": 1725
+  },
+  {
+    "Country": "Serbia",
+    "Capital City": "Belgrade",
+    "Flag Adoption Year": "2004",
+    "Flag Age (Years)": "22",
+    "Highest Office Holder": "President Aleksandar Vu\u010di\u0107",
+    "Office Holder Age (Years)": "56",
+    "Country Formation Year": 1878,
+    "Country Age (Years)": 148
+  },
+  {
+    "Country": "Slovakia",
+    "Capital City": "Bratislava",
+    "Flag Adoption Year": "1992",
+    "Flag Age (Years)": "34",
+    "Highest Office Holder": "President Peter Pellegrini",
+    "Office Holder Age (Years)": "50",
+    "Country Formation Year": 1993,
+    "Country Age (Years)": 33
+  },
+  {
+    "Country": "Slovenia",
+    "Capital City": "Ljubljana",
+    "Flag Adoption Year": "1991",
+    "Flag Age (Years)": "35",
+    "Highest Office Holder": "President Nata\u0161a Pirc Musar",
+    "Office Holder Age (Years)": "58",
+    "Country Formation Year": 1991,
+    "Country Age (Years)": 35
+  },
+  {
+    "Country": "Spain",
+    "Capital City": "Madrid",
+    "Flag Adoption Year": "1981",
+    "Flag Age (Years)": "45",
+    "Highest Office Holder": "PM Pedro S\u00e1nchez",
+    "Office Holder Age (Years)": "54",
+    "Country Formation Year": 1492,
+    "Country Age (Years)": 534
+  },
+  {
+    "Country": "Sweden",
+    "Capital City": "Stockholm",
+    "Flag Adoption Year": "1906",
+    "Flag Age (Years)": "120",
+    "Highest Office Holder": "PM Ulf Kristersson",
+    "Office Holder Age (Years)": "62",
+    "Country Formation Year": 1523,
+    "Country Age (Years)": 503
+  },
+  {
+    "Country": "Switzerland",
+    "Capital City": "Bern",
+    "Flag Adoption Year": "1889",
+    "Flag Age (Years)": "137",
+    "Highest Office Holder": "President Guy Parmelin",
+    "Office Holder Age (Years)": "66",
+    "Country Formation Year": 1291,
+    "Country Age (Years)": 735
+  },
+  {
+    "Country": "Ukraine",
+    "Capital City": "Kyiv",
+    "Flag Adoption Year": "1992",
+    "Flag Age (Years)": "34",
+    "Highest Office Holder": "President Volodymyr Zelenskyy",
+    "Office Holder Age (Years)": "48",
+    "Country Formation Year": 1991,
+    "Country Age (Years)": 35
+  },
+  {
+    "Country": "United Kingdom",
+    "Capital City": "London",
+    "Flag Adoption Year": "1801",
+    "Flag Age (Years)": "225",
+    "Highest Office Holder": "PM Keir Starmer",
+    "Office Holder Age (Years)": "63",
+    "Country Formation Year": 1707,
+    "Country Age (Years)": 319
+  },
+  {
+    "Country": "Vatican City",
+    "Capital City": "Vatican City",
+    "Flag Adoption Year": "1929",
+    "Flag Age (Years)": "97",
+    "Highest Office Holder": "Pope Leo XIV",
+    "Office Holder Age (Years)": "70",
+    "Country Formation Year": 1929,
+    "Country Age (Years)": 97
+  },
+  {
+    "Country": "Afghanistan",
+    "Capital City": "Kabul",
+    "Flag Adoption Year": "2021",
+    "Flag Age (Years)": "5",
+    "Highest Office Holder": "Supreme Leader Hibatullah Akhundzada",
+    "Office Holder Age (Years)": "58",
+    "Country Formation Year": 1919,
+    "Country Age (Years)": 107
+  },
+  {
+    "Country": "Armenia",
+    "Capital City": "Yerevan",
+    "Flag Adoption Year": "1990",
+    "Flag Age (Years)": "36",
+    "Highest Office Holder": "President Vahagn Khachaturyan",
+    "Office Holder Age (Years)": "66",
+    "Country Formation Year": 1991,
+    "Country Age (Years)": 35
+  },
+  {
+    "Country": "Azerbaijan",
+    "Capital City": "Baku",
+    "Flag Adoption Year": "1991",
+    "Flag Age (Years)": "35",
+    "Highest Office Holder": "President Ilham Aliyev",
+    "Office Holder Age (Years)": "64",
+    "Country Formation Year": 1991,
+    "Country Age (Years)": 35
+  },
+  {
+    "Country": "Bahrain",
+    "Capital City": "Manama",
+    "Flag Adoption Year": "2002",
+    "Flag Age (Years)": "24",
+    "Highest Office Holder": "King Hamad bin Isa Al Khalifa",
+    "Office Holder Age (Years)": "76",
+    "Country Formation Year": 1971,
+    "Country Age (Years)": 55
+  },
+  {
+    "Country": "Bangladesh",
+    "Capital City": "Dhaka",
+    "Flag Adoption Year": "1972",
+    "Flag Age (Years)": "54",
+    "Highest Office Holder": "PM Tarique Rahman",
+    "Office Holder Age (Years)": "58",
+    "Country Formation Year": 1971,
+    "Country Age (Years)": 55
+  },
+  {
+    "Country": "Bhutan",
+    "Capital City": "Thimphu",
+    "Flag Adoption Year": "1969",
+    "Flag Age (Years)": "57",
+    "Highest Office Holder": "King Jigme Khesar Namgyel Wangchuck",
+    "Office Holder Age (Years)": "46",
+    "Country Formation Year": 1907,
+    "Country Age (Years)": 119
+  },
+  {
+    "Country": "Brunei",
+    "Capital City": "Bandar Seri Begawan",
+    "Flag Adoption Year": "1959",
+    "Flag Age (Years)": "67",
+    "Highest Office Holder": "Sultan Hassanal Bolkiah",
+    "Office Holder Age (Years)": "79",
+    "Country Formation Year": 1984,
+    "Country Age (Years)": 42
+  },
+  {
+    "Country": "Cambodia",
+    "Capital City": "Phnom Penh",
+    "Flag Adoption Year": "1993",
+    "Flag Age (Years)": "33",
+    "Highest Office Holder": "PM Hun Manet",
+    "Office Holder Age (Years)": "48",
+    "Country Formation Year": 1953,
+    "Country Age (Years)": 73
+  },
+  {
+    "Country": "China",
+    "Capital City": "Beijing",
+    "Flag Adoption Year": "1949",
+    "Flag Age (Years)": "77",
+    "Highest Office Holder": "President Xi Jinping",
+    "Office Holder Age (Years)": "72",
+    "Country Formation Year": 1949,
+    "Country Age (Years)": 77
+  },
+  {
+    "Country": "Georgia",
+    "Capital City": "Tbilisi",
+    "Flag Adoption Year": "2004",
+    "Flag Age (Years)": "22",
+    "Highest Office Holder": "PM Irakli Kobakhidze",
+    "Office Holder Age (Years)": "47",
+    "Country Formation Year": 1991,
+    "Country Age (Years)": 35
+  },
+  {
+    "Country": "India",
+    "Capital City": "New Delhi",
+    "Flag Adoption Year": "1947",
+    "Flag Age (Years)": "79",
+    "Highest Office Holder": "PM Narendra Modi",
+    "Office Holder Age (Years)": "75",
+    "Country Formation Year": 1947,
+    "Country Age (Years)": 79
+  },
+  {
+    "Country": "Indonesia",
+    "Capital City": "Jakarta",
+    "Flag Adoption Year": "1945",
+    "Flag Age (Years)": "81",
+    "Highest Office Holder": "President Prabowo Subianto",
+    "Office Holder Age (Years)": "74",
+    "Country Formation Year": 1945,
+    "Country Age (Years)": 81
+  },
+  {
+    "Country": "Iran",
+    "Capital City": "Tehran",
+    "Flag Adoption Year": "1980",
+    "Flag Age (Years)": "46",
+    "Highest Office Holder": "Supreme Leader Mojtaba Khamenei",
+    "Office Holder Age (Years)": "56",
+    "Country Formation Year": 1979,
+    "Country Age (Years)": 47
+  },
+  {
+    "Country": "Iraq",
+    "Capital City": "Baghdad",
+    "Flag Adoption Year": "2008",
+    "Flag Age (Years)": "18",
+    "Highest Office Holder": "President Nizar Amedi",
+    "Office Holder Age (Years)": "58",
+    "Country Formation Year": 1932,
+    "Country Age (Years)": 94
+  },
+  {
+    "Country": "Israel",
+    "Capital City": "Jerusalem",
+    "Flag Adoption Year": "1948",
+    "Flag Age (Years)": "78",
+    "Highest Office Holder": "PM Benjamin Netanyahu",
+    "Office Holder Age (Years)": "76",
+    "Country Formation Year": 1948,
+    "Country Age (Years)": 78
+  },
+  {
+    "Country": "Japan",
+    "Capital City": "Tokyo",
+    "Flag Adoption Year": "1870",
+    "Flag Age (Years)": "156",
+    "Highest Office Holder": "PM Sanae Takaichi",
+    "Office Holder Age (Years)": "65",
+    "Country Formation Year": -660,
+    "Country Age (Years)": 2686
+  },
+  {
+    "Country": "Jordan",
+    "Capital City": "Amman",
+    "Flag Adoption Year": "1928",
+    "Flag Age (Years)": "98",
+    "Highest Office Holder": "King Abdullah II",
+    "Office Holder Age (Years)": "64",
+    "Country Formation Year": 1946,
+    "Country Age (Years)": 80
+  },
+  {
+    "Country": "Kazakhstan",
+    "Capital City": "Astana",
+    "Flag Adoption Year": "1992",
+    "Flag Age (Years)": "34",
+    "Highest Office Holder": "President Kassym-Jomart Tokayev",
+    "Office Holder Age (Years)": "72",
+    "Country Formation Year": 1991,
+    "Country Age (Years)": 35
+  },
+  {
+    "Country": "Kuwait",
+    "Capital City": "Kuwait City",
+    "Flag Adoption Year": "1961",
+    "Flag Age (Years)": "65",
+    "Highest Office Holder": "Emir Mishal Al-Sabah",
+    "Office Holder Age (Years)": "85",
+    "Country Formation Year": 1961,
+    "Country Age (Years)": 65
+  },
+  {
+    "Country": "Kyrgyzstan",
+    "Capital City": "Bishkek",
+    "Flag Adoption Year": "2023",
+    "Flag Age (Years)": "3",
+    "Highest Office Holder": "President Sadyr Japarov",
+    "Office Holder Age (Years)": "57",
+    "Country Formation Year": 1991,
+    "Country Age (Years)": 35
+  },
+  {
+    "Country": "Laos",
+    "Capital City": "Vientiane",
+    "Flag Adoption Year": "1975",
+    "Flag Age (Years)": "51",
+    "Highest Office Holder": "President Thongloun Sisoulith",
+    "Office Holder Age (Years)": "80",
+    "Country Formation Year": 1953,
+    "Country Age (Years)": 73
+  },
+  {
+    "Country": "Lebanon",
+    "Capital City": "Beirut",
+    "Flag Adoption Year": "1943",
+    "Flag Age (Years)": "83",
+    "Highest Office Holder": "President Joseph Aoun",
+    "Office Holder Age (Years)": "62",
+    "Country Formation Year": 1943,
+    "Country Age (Years)": 83
+  },
+  {
+    "Country": "Malaysia",
+    "Capital City": "Kuala Lumpur",
+    "Flag Adoption Year": "1950",
+    "Flag Age (Years)": "76",
+    "Highest Office Holder": "King Ibrahim Iskandar",
+    "Office Holder Age (Years)": "67",
+    "Country Formation Year": 1957,
+    "Country Age (Years)": 69
+  },
+  {
+    "Country": "Maldives",
+    "Capital City": "Male",
+    "Flag Adoption Year": "1965",
+    "Flag Age (Years)": "61",
+    "Highest Office Holder": "President Mohamed Muizzu",
+    "Office Holder Age (Years)": "47",
+    "Country Formation Year": 1965,
+    "Country Age (Years)": 61
+  },
+  {
+    "Country": "Mongolia",
+    "Capital City": "Ulaanbaatar",
+    "Flag Adoption Year": "1992",
+    "Flag Age (Years)": "34",
+    "Highest Office Holder": "PM Nyam-Osoryn Uchral",
+    "Office Holder Age (Years)": "39",
+    "Country Formation Year": 1911,
+    "Country Age (Years)": 115
+  },
+  {
+    "Country": "Myanmar",
+    "Capital City": "Naypyidaw",
+    "Flag Adoption Year": "2010",
+    "Flag Age (Years)": "16",
+    "Highest Office Holder": "General Min Aung Hlaing",
+    "Office Holder Age (Years)": "69",
+    "Country Formation Year": 1948,
+    "Country Age (Years)": 78
+  },
+  {
+    "Country": "Nepal",
+    "Capital City": "Kathmandu",
+    "Flag Adoption Year": "1962",
+    "Flag Age (Years)": "64",
+    "Highest Office Holder": "PM Balendra Shah",
+    "Office Holder Age (Years)": "35",
+    "Country Formation Year": 1768,
+    "Country Age (Years)": 258
+  },
+  {
+    "Country": "North Korea",
+    "Capital City": "Pyongyang",
+    "Flag Adoption Year": "1948",
+    "Flag Age (Years)": "78",
+    "Highest Office Holder": "Supreme Leader Kim Jong Un",
+    "Office Holder Age (Years)": "42",
+    "Country Formation Year": 1948,
+    "Country Age (Years)": 78
+  },
+  {
+    "Country": "Oman",
+    "Capital City": "Muscat",
+    "Flag Adoption Year": "1995",
+    "Flag Age (Years)": "31",
+    "Highest Office Holder": "Sultan Haitham bin Tariq",
+    "Office Holder Age (Years)": "71",
+    "Country Formation Year": 1650,
+    "Country Age (Years)": 376
+  },
+  {
+    "Country": "Pakistan",
+    "Capital City": "Islamabad",
+    "Flag Adoption Year": "1947",
+    "Flag Age (Years)": "79",
+    "Highest Office Holder": "PM Shehbaz Sharif",
+    "Office Holder Age (Years)": "74",
+    "Country Formation Year": 1947,
+    "Country Age (Years)": 79
+  },
+  {
+    "Country": "Palestine",
+    "Capital City": "Jerusalem",
+    "Flag Adoption Year": "1988",
+    "Flag Age (Years)": "38",
+    "Highest Office Holder": "President Mahmoud Abbas",
+    "Office Holder Age (Years)": "90",
+    "Country Formation Year": 1988,
+    "Country Age (Years)": 38
+  },
+  {
+    "Country": "Philippines",
+    "Capital City": "Manila",
+    "Flag Adoption Year": "1898",
+    "Flag Age (Years)": "128",
+    "Highest Office Holder": "President Bongbong Marcos",
+    "Office Holder Age (Years)": "68",
+    "Country Formation Year": 1898,
+    "Country Age (Years)": 128
+  },
+  {
+    "Country": "Qatar",
+    "Capital City": "Doha",
+    "Flag Adoption Year": "1971",
+    "Flag Age (Years)": "55",
+    "Highest Office Holder": "Emir Tamim bin Hamad Al Thani",
+    "Office Holder Age (Years)": "45",
+    "Country Formation Year": 1971,
+    "Country Age (Years)": 55
+  },
+  {
+    "Country": "Saudi Arabia",
+    "Capital City": "Riyadh",
+    "Flag Adoption Year": "1973",
+    "Flag Age (Years)": "53",
+    "Highest Office Holder": "King Salman bin Abdulaziz",
+    "Office Holder Age (Years)": "90",
+    "Country Formation Year": 1932,
+    "Country Age (Years)": 94
+  },
+  {
+    "Country": "Singapore",
+    "Capital City": "Singapore",
+    "Flag Adoption Year": "1959",
+    "Flag Age (Years)": "67",
+    "Highest Office Holder": "PM Lawrence Wong",
+    "Office Holder Age (Years)": "53",
+    "Country Formation Year": 1965,
+    "Country Age (Years)": 61
+  },
+  {
+    "Country": "South Korea",
+    "Capital City": "Seoul",
+    "Flag Adoption Year": "1883",
+    "Flag Age (Years)": "143",
+    "Highest Office Holder": "President Lee Jae Myung",
+    "Office Holder Age (Years)": "61",
+    "Country Formation Year": 1948,
+    "Country Age (Years)": 78
+  },
+  {
+    "Country": "Sri Lanka",
+    "Capital City": "Colombo",
+    "Flag Adoption Year": "1972",
+    "Flag Age (Years)": "54",
+    "Highest Office Holder": "President Anura Kumara Dissanayake",
+    "Office Holder Age (Years)": "57",
+    "Country Formation Year": 1948,
+    "Country Age (Years)": 78
+  },
+  {
+    "Country": "Syria",
+    "Capital City": "Damascus",
+    "Flag Adoption Year": "2025",
+    "Flag Age (Years)": "1",
+    "Highest Office Holder": "President Ahmed al-Sharaa",
+    "Office Holder Age (Years)": "44",
+    "Country Formation Year": 1946,
+    "Country Age (Years)": 80
+  },
+  {
+    "Country": "Taiwan",
+    "Capital City": "Taipei",
+    "Flag Adoption Year": "1928",
+    "Flag Age (Years)": "98",
+    "Highest Office Holder": "President Lai Ching-te",
+    "Office Holder Age (Years)": "66",
+    "Country Formation Year": 1911,
+    "Country Age (Years)": 115
+  },
+  {
+    "Country": "Tajikistan",
+    "Capital City": "Dushanbe",
+    "Flag Adoption Year": "1992",
+    "Flag Age (Years)": "34",
+    "Highest Office Holder": "President Emomali Rahmon",
+    "Office Holder Age (Years)": "73",
+    "Country Formation Year": 1991,
+    "Country Age (Years)": 35
+  },
+  {
+    "Country": "Thailand",
+    "Capital City": "Bangkok",
+    "Flag Adoption Year": "1917",
+    "Flag Age (Years)": "109",
+    "Highest Office Holder": "PM Paetongtarn Shinawatra",
+    "Office Holder Age (Years)": "39",
+    "Country Formation Year": 1238,
+    "Country Age (Years)": 788
+  },
+  {
+    "Country": "Timor-Leste",
+    "Capital City": "Dili",
+    "Flag Adoption Year": "2002",
+    "Flag Age (Years)": "24",
+    "Highest Office Holder": "PM Xanana Gusm\u00e3o",
+    "Office Holder Age (Years)": "79",
+    "Country Formation Year": 2002,
+    "Country Age (Years)": 24
+  },
+  {
+    "Country": "Turkey",
+    "Capital City": "Ankara",
+    "Flag Adoption Year": "1844",
+    "Flag Age (Years)": "182",
+    "Highest Office Holder": "President Recep Tayyip Erdo\u011fan",
+    "Office Holder Age (Years)": "72",
+    "Country Formation Year": 1923,
+    "Country Age (Years)": 103
+  },
+  {
+    "Country": "Turkmenistan",
+    "Capital City": "Ashgabat",
+    "Flag Adoption Year": "1992",
+    "Flag Age (Years)": "34",
+    "Highest Office Holder": "President Serdar Berdimuhamedow",
+    "Office Holder Age (Years)": "44",
+    "Country Formation Year": 1991,
+    "Country Age (Years)": 35
+  },
+  {
+    "Country": "UAE",
+    "Capital City": "Abu Dhabi",
+    "Flag Adoption Year": "1971",
+    "Flag Age (Years)": "55",
+    "Highest Office Holder": "President Mohamed bin Zayed",
+    "Office Holder Age (Years)": "65",
+    "Country Formation Year": 1971,
+    "Country Age (Years)": 55
+  },
+  {
+    "Country": "Uzbekistan",
+    "Capital City": "Tashkent",
+    "Flag Adoption Year": "1991",
+    "Flag Age (Years)": "35",
+    "Highest Office Holder": "President Shavkat Mirziyoyev",
+    "Office Holder Age (Years)": "68",
+    "Country Formation Year": 1991,
+    "Country Age (Years)": 35
+  },
+  {
+    "Country": "Vietnam",
+    "Capital City": "Hanoi",
+    "Flag Adoption Year": "1945",
+    "Flag Age (Years)": "81",
+    "Highest Office Holder": "President L\u01b0\u01a1ng C\u01b0\u1eddng",
+    "Office Holder Age (Years)": "68",
+    "Country Formation Year": 1945,
+    "Country Age (Years)": 81
+  },
+  {
+    "Country": "Yemen",
+    "Capital City": "Sana'a",
+    "Flag Adoption Year": "1990",
+    "Flag Age (Years)": "36",
+    "Highest Office Holder": "Chairman Rashad al-Alimi",
+    "Office Holder Age (Years)": "72",
+    "Country Formation Year": 1990,
+    "Country Age (Years)": 36
+  },
+  {
+    "Country": "Antigua / Barbuda",
+    "Capital City": "Saint John's",
+    "Flag Adoption Year": "1967",
+    "Flag Age (Years)": "59",
+    "Highest Office Holder": "PM Gaston Browne",
+    "Office Holder Age (Years)": "59",
+    "Country Formation Year": 1981,
+    "Country Age (Years)": 45
+  },
+  {
+    "Country": "Argentina",
+    "Capital City": "Buenos Aires",
+    "Flag Adoption Year": "1812",
+    "Flag Age (Years)": "214",
+    "Highest Office Holder": "President Javier Milei",
+    "Office Holder Age (Years)": "55",
+    "Country Formation Year": 1816,
+    "Country Age (Years)": 210
+  },
+  {
+    "Country": "Bahamas",
+    "Capital City": "Nassau",
+    "Flag Adoption Year": "1973",
+    "Flag Age (Years)": "53",
+    "Highest Office Holder": "PM Philip Davis",
+    "Office Holder Age (Years)": "74",
+    "Country Formation Year": 1973,
+    "Country Age (Years)": 53
+  },
+  {
+    "Country": "Barbados",
+    "Capital City": "Bridgetown",
+    "Flag Adoption Year": "1966",
+    "Flag Age (Years)": "60",
+    "Highest Office Holder": "PM Mia Mottley",
+    "Office Holder Age (Years)": "60",
+    "Country Formation Year": 1966,
+    "Country Age (Years)": 60
+  },
+  {
+    "Country": "Belize",
+    "Capital City": "Belmopan",
+    "Flag Adoption Year": "1981",
+    "Flag Age (Years)": "45",
+    "Highest Office Holder": "PM Johnny Brice\u00f1o",
+    "Office Holder Age (Years)": "65",
+    "Country Formation Year": 1981,
+    "Country Age (Years)": 45
+  },
+  {
+    "Country": "Bolivia",
+    "Capital City": "Sucre",
+    "Flag Adoption Year": "1851",
+    "Flag Age (Years)": "175",
+    "Highest Office Holder": "President Rodrigo Paz Pereira",
+    "Office Holder Age (Years)": "58",
+    "Country Formation Year": 1825,
+    "Country Age (Years)": 201
+  },
+  {
+    "Country": "Brazil",
+    "Capital City": "Brasilia",
+    "Flag Adoption Year": "1992",
+    "Flag Age (Years)": "34",
+    "Highest Office Holder": "President Luiz In\u00e1cio Lula da Silva",
+    "Office Holder Age (Years)": "80",
+    "Country Formation Year": 1822,
+    "Country Age (Years)": 204
+  },
+  {
+    "Country": "Canada",
+    "Capital City": "Ottawa",
+    "Flag Adoption Year": "1965",
+    "Flag Age (Years)": "61",
+    "Highest Office Holder": "PM Mark Carney",
+    "Office Holder Age (Years)": "61",
+    "Country Formation Year": 1867,
+    "Country Age (Years)": 159
+  },
+  {
+    "Country": "Chile",
+    "Capital City": "Santiago",
+    "Flag Adoption Year": "1817",
+    "Flag Age (Years)": "209",
+    "Highest Office Holder": "President Jos\u00e9 Antonio Kast",
+    "Office Holder Age (Years)": "60",
+    "Country Formation Year": 1818,
+    "Country Age (Years)": 208
+  },
+  {
+    "Country": "Colombia",
+    "Capital City": "Bogota",
+    "Flag Adoption Year": "1861",
+    "Flag Age (Years)": "165",
+    "Highest Office Holder": "President Gustavo Petro",
+    "Office Holder Age (Years)": "65",
+    "Country Formation Year": 1810,
+    "Country Age (Years)": 216
+  },
+  {
+    "Country": "Costa Rica",
+    "Capital City": "San Jose",
+    "Flag Adoption Year": "1848",
+    "Flag Age (Years)": "178",
+    "Highest Office Holder": "President Rodrigo Chaves Robles",
+    "Office Holder Age (Years)": "64",
+    "Country Formation Year": 1821,
+    "Country Age (Years)": 205
+  },
+  {
+    "Country": "Cuba",
+    "Capital City": "Havana",
+    "Flag Adoption Year": "1902",
+    "Flag Age (Years)": "124",
+    "Highest Office Holder": "President Miguel D\u00edaz-Canel",
+    "Office Holder Age (Years)": "65",
+    "Country Formation Year": 1902,
+    "Country Age (Years)": 124
+  },
+  {
+    "Country": "Dominica",
+    "Capital City": "Roseau",
+    "Flag Adoption Year": "1990",
+    "Flag Age (Years)": "36",
+    "Highest Office Holder": "PM Roosevelt Skerrit",
+    "Office Holder Age (Years)": "53",
+    "Country Formation Year": 1978,
+    "Country Age (Years)": 48
+  },
+  {
+    "Country": "Dominican Rep.",
+    "Capital City": "Santo Domingo",
+    "Flag Adoption Year": "1908",
+    "Flag Age (Years)": "118",
+    "Highest Office Holder": "President Luis Abinader",
+    "Office Holder Age (Years)": "58",
+    "Country Formation Year": 1844,
+    "Country Age (Years)": 182
+  },
+  {
+    "Country": "Ecuador",
+    "Capital City": "Quito",
+    "Flag Adoption Year": "1900",
+    "Flag Age (Years)": "126",
+    "Highest Office Holder": "President Daniel Noboa",
+    "Office Holder Age (Years)": "38",
+    "Country Formation Year": 1822,
+    "Country Age (Years)": 204
+  },
+  {
+    "Country": "El Salvador",
+    "Capital City": "San Salvador",
+    "Flag Adoption Year": "1912",
+    "Flag Age (Years)": "114",
+    "Highest Office Holder": "President Nayib Bukele",
+    "Office Holder Age (Years)": "44",
+    "Country Formation Year": 1821,
+    "Country Age (Years)": 205
+  },
+  {
+    "Country": "Grenada",
+    "Capital City": "St. George's",
+    "Flag Adoption Year": "1974",
+    "Flag Age (Years)": "52",
+    "Highest Office Holder": "PM Dickon Mitchell",
+    "Office Holder Age (Years)": "47",
+    "Country Formation Year": 1974,
+    "Country Age (Years)": 52
+  },
+  {
+    "Country": "Guatemala",
+    "Capital City": "Guatemala City",
+    "Flag Adoption Year": "1871",
+    "Flag Age (Years)": "155",
+    "Highest Office Holder": "President Bernardo Ar\u00e9valo",
+    "Office Holder Age (Years)": "67",
+    "Country Formation Year": 1821,
+    "Country Age (Years)": 205
+  },
+  {
+    "Country": "Guyana",
+    "Capital City": "Georgetown",
+    "Flag Adoption Year": "1966",
+    "Flag Age (Years)": "60",
+    "Highest Office Holder": "President Irfaan Ali",
+    "Office Holder Age (Years)": "45",
+    "Country Formation Year": 1966,
+    "Country Age (Years)": 60
+  },
+  {
+    "Country": "Haiti",
+    "Capital City": "Port-au-Prince",
+    "Flag Adoption Year": "1986",
+    "Flag Age (Years)": "40",
+    "Highest Office Holder": "Acting President Alix Didier Fils-Aim\u00e9",
+    "Office Holder Age (Years)": "54",
+    "Country Formation Year": 1804,
+    "Country Age (Years)": 222
+  },
+  {
+    "Country": "Honduras",
+    "Capital City": "Tegucigalpa",
+    "Flag Adoption Year": "2026",
+    "Flag Age (Years)": "0",
+    "Highest Office Holder": "President Nasry Asfura",
+    "Office Holder Age (Years)": "67",
+    "Country Formation Year": 1821,
+    "Country Age (Years)": 205
+  },
+  {
+    "Country": "Jamaica",
+    "Capital City": "Kingston",
+    "Flag Adoption Year": "1962",
+    "Flag Age (Years)": "64",
+    "Highest Office Holder": "PM Andrew Holness",
+    "Office Holder Age (Years)": "53",
+    "Country Formation Year": 1962,
+    "Country Age (Years)": 64
+  },
+  {
+    "Country": "Mexico",
+    "Capital City": "Mexico City",
+    "Flag Adoption Year": "1968",
+    "Flag Age (Years)": "58",
+    "Highest Office Holder": "President Claudia Sheinbaum",
+    "Office Holder Age (Years)": "63",
+    "Country Formation Year": 1810,
+    "Country Age (Years)": 216
+  },
+  {
+    "Country": "Nicaragua",
+    "Capital City": "Managua",
+    "Flag Adoption Year": "1908",
+    "Flag Age (Years)": "118",
+    "Highest Office Holder": "President Daniel Ortega",
+    "Office Holder Age (Years)": "80",
+    "Country Formation Year": 1821,
+    "Country Age (Years)": 205
+  },
+  {
+    "Country": "Panama",
+    "Capital City": "Panama City",
+    "Flag Adoption Year": "1925",
+    "Flag Age (Years)": "101",
+    "Highest Office Holder": "President Jos\u00e9 Ra\u00fal Mulino",
+    "Office Holder Age (Years)": "66",
+    "Country Formation Year": 1903,
+    "Country Age (Years)": 123
+  },
+  {
+    "Country": "Paraguay",
+    "Capital City": "Asuncion",
+    "Flag Adoption Year": "1842",
+    "Flag Age (Years)": "184",
+    "Highest Office Holder": "President Santiago Pe\u00f1a",
+    "Office Holder Age (Years)": "47",
+    "Country Formation Year": 1811,
+    "Country Age (Years)": 215
+  },
+  {
+    "Country": "Peru",
+    "Capital City": "Lima",
+    "Flag Adoption Year": "1825",
+    "Flag Age (Years)": "201",
+    "Highest Office Holder": "President Jos\u00e9 Jer\u00ed",
+    "Office Holder Age (Years)": "40",
+    "Country Formation Year": 1821,
+    "Country Age (Years)": 205
+  },
+  {
+    "Country": "Saint Kitts / Nevis",
+    "Capital City": "Basseterre",
+    "Flag Adoption Year": "1983",
+    "Flag Age (Years)": "43",
+    "Highest Office Holder": "PM Terrance Drew",
+    "Office Holder Age (Years)": "53",
+    "Country Formation Year": 1983,
+    "Country Age (Years)": 43
+  },
+  {
+    "Country": "Saint Lucia",
+    "Capital City": "Castries",
+    "Flag Adoption Year": "1979",
+    "Flag Age (Years)": "47",
+    "Highest Office Holder": "PM Philip J. Pierre",
+    "Office Holder Age (Years)": "71",
+    "Country Formation Year": 1979,
+    "Country Age (Years)": 47
+  },
+  {
+    "Country": "Saint Vincent",
+    "Capital City": "Kingstown",
+    "Flag Adoption Year": "1985",
+    "Flag Age (Years)": "41",
+    "Highest Office Holder": "PM Ralph Gonsalves",
+    "Office Holder Age (Years)": "79",
+    "Country Formation Year": 1979,
+    "Country Age (Years)": 47
+  },
+  {
+    "Country": "Suriname",
+    "Capital City": "Paramaribo",
+    "Flag Adoption Year": "1975",
+    "Flag Age (Years)": "51",
+    "Highest Office Holder": "President Chan Santokhi",
+    "Office Holder Age (Years)": "67",
+    "Country Formation Year": 1975,
+    "Country Age (Years)": 51
+  },
+  {
+    "Country": "Trinidad / Tobago",
+    "Capital City": "Port of Spain",
+    "Flag Adoption Year": "1962",
+    "Flag Age (Years)": "64",
+    "Highest Office Holder": "PM Keith Rowley",
+    "Office Holder Age (Years)": "76",
+    "Country Formation Year": 1962,
+    "Country Age (Years)": 64
+  },
+  {
+    "Country": "United States",
+    "Capital City": "Washington. D.C.",
+    "Flag Adoption Year": "1960",
+    "Flag Age (Years)": "66",
+    "Highest Office Holder": "President Donald Trump",
+    "Office Holder Age (Years)": "79",
+    "Country Formation Year": 1776,
+    "Country Age (Years)": 250
+  },
+  {
+    "Country": "Uruguay",
+    "Capital City": "Montevideo",
+    "Flag Adoption Year": "1828",
+    "Flag Age (Years)": "198",
+    "Highest Office Holder": "President \u00c1lvaro Delgado",
+    "Office Holder Age (Years)": "57",
+    "Country Formation Year": 1825,
+    "Country Age (Years)": 201
+  },
+  {
+    "Country": "Venezuela",
+    "Capital City": "Caracas",
+    "Flag Adoption Year": "2006",
+    "Flag Age (Years)": "20",
+    "Highest Office Holder": "President Nicol\u00e1s Maduro",
+    "Office Holder Age (Years)": "63",
+    "Country Formation Year": 1811,
+    "Country Age (Years)": 215
+  },
+  {
+    "Country": "Australia",
+    "Capital City": "Canberra",
+    "Flag Adoption Year": "1901",
+    "Flag Age (Years)": "125",
+    "Highest Office Holder": "PM Anthony Albanese",
+    "Office Holder Age (Years)": "63",
+    "Country Formation Year": 1901,
+    "Country Age (Years)": 125
+  },
+  {
+    "Country": "Fiji",
+    "Capital City": "Suva",
+    "Flag Adoption Year": "1970",
+    "Flag Age (Years)": "56",
+    "Highest Office Holder": "PM Sitiveni Rabuka",
+    "Office Holder Age (Years)": "77",
+    "Country Formation Year": 1970,
+    "Country Age (Years)": 56
+  },
+  {
+    "Country": "Kiribati",
+    "Capital City": "Tarawa",
+    "Flag Adoption Year": "1979",
+    "Flag Age (Years)": "47",
+    "Highest Office Holder": "President Taneti Maamau",
+    "Office Holder Age (Years)": "65",
+    "Country Formation Year": 1979,
+    "Country Age (Years)": 47
+  },
+  {
+    "Country": "Marshall Islands",
+    "Capital City": "Majuro",
+    "Flag Adoption Year": "1979",
+    "Flag Age (Years)": "47",
+    "Highest Office Holder": "President Hilda Heine",
+    "Office Holder Age (Years)": "75",
+    "Country Formation Year": 1986,
+    "Country Age (Years)": 40
+  },
+  {
+    "Country": "Micronesia",
+    "Capital City": "Palikir",
+    "Flag Adoption Year": "1979",
+    "Flag Age (Years)": "47",
+    "Highest Office Holder": "President Wesley Simina",
+    "Office Holder Age (Years)": "70",
+    "Country Formation Year": 1986,
+    "Country Age (Years)": 40
+  },
+  {
+    "Country": "Nauru",
+    "Capital City": "Yaren",
+    "Flag Adoption Year": "1968",
+    "Flag Age (Years)": "58",
+    "Highest Office Holder": "President David Adeang",
+    "Office Holder Age (Years)": "56",
+    "Country Formation Year": 1968,
+    "Country Age (Years)": 58
+  },
+  {
+    "Country": "New Zealand",
+    "Capital City": "Wellington",
+    "Flag Adoption Year": "1947",
+    "Flag Age (Years)": "79",
+    "Highest Office Holder": "PM Christopher Luxon",
+    "Office Holder Age (Years)": "55",
+    "Country Formation Year": 1907,
+    "Country Age (Years)": 119
+  },
+  {
+    "Country": "Palau",
+    "Capital City": "Ngerulmud",
+    "Flag Adoption Year": "1981",
+    "Flag Age (Years)": "45",
+    "Highest Office Holder": "President Surangel Whipps Jr.",
+    "Office Holder Age (Years)": "57",
+    "Country Formation Year": 1994,
+    "Country Age (Years)": 32
+  },
+  {
+    "Country": "Papua New Guinea",
+    "Capital City": "Port Moresby",
+    "Flag Adoption Year": "1975",
+    "Flag Age (Years)": "51",
+    "Highest Office Holder": "PM James Marape",
+    "Office Holder Age (Years)": "55",
+    "Country Formation Year": 1975,
+    "Country Age (Years)": 51
+  },
+  {
+    "Country": "Samoa",
+    "Capital City": "Apia",
+    "Flag Adoption Year": "1949",
+    "Flag Age (Years)": "77",
+    "Highest Office Holder": "PM Fiam\u0113 Naomi Mata\u02bbafa",
+    "Office Holder Age (Years)": "69",
+    "Country Formation Year": 1962,
+    "Country Age (Years)": 64
+  },
+  {
+    "Country": "Solomon Islands",
+    "Capital City": "Honiara",
+    "Flag Adoption Year": "1977",
+    "Flag Age (Years)": "49",
+    "Highest Office Holder": "PM Jeremiah Manele",
+    "Office Holder Age (Years)": "57",
+    "Country Formation Year": 1978,
+    "Country Age (Years)": 48
+  },
+  {
+    "Country": "Tonga",
+    "Capital City": "Nuku'alofa",
+    "Flag Adoption Year": "1875",
+    "Flag Age (Years)": "151",
+    "Highest Office Holder": "King Tupou VI",
+    "Office Holder Age (Years)": "66",
+    "Country Formation Year": 1970,
+    "Country Age (Years)": 56
+  },
+  {
+    "Country": "Tuvalu",
+    "Capital City": "Funafuti",
+    "Flag Adoption Year": "1997",
+    "Flag Age (Years)": "29",
+    "Highest Office Holder": "PM Feleti Teo",
+    "Office Holder Age (Years)": "63",
+    "Country Formation Year": 1978,
+    "Country Age (Years)": 48
+  },
+  {
+    "Country": "Vanuatu",
+    "Capital City": "Port Vila",
+    "Flag Adoption Year": "1980",
+    "Flag Age (Years)": "46",
+    "Highest Office Holder": "PM Charlot Salwai",
+    "Office Holder Age (Years)": "63",
+    "Country Formation Year": 1980,
+    "Country Age (Years)": 46
+  }
 ]
