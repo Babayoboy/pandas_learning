@@ -114,8 +114,13 @@ Pandas integrates with visualization libraries to turn tables into insights:
 - `dic_in_pandas.py`: Converting Python dictionaries into tabular data.
 - `list_in_pandas.py`: Working with Python lists in a Pandas context.
 - `importing.py`: Demonstrating data ingestion techniques.
-- `start.py` / `test1.py` / `test2.py`: Initial setup and experimental scripts.
-- `data/`: Directory containing external datasets used in the scripts.
+- `filtering.py`: Boolean indexing and conditional filtering.
+- `selection.py`: Specialized selection methods (label vs position).
+- `aggregation.py`: Implementing the "Split-Apply-Combine" strategy.
+- `update_data.py`: Synchronizing CSV data changes with JSON sources.
+- `TestSelection.py`, `Testdataframe.py`, `Testseries.py`: Scripts for verifying core pandas logic.
+- `data/`: Directory containing project datasets (CSV, JSON).
+
 
 ---
 
