@@ -7,17 +7,19 @@
     "Highest Office Holder": "President Abdelmadjid Tebboune",
     "Office Holder Age (Years)": "80",
     "Country Formation Year": 1962,
-    "Country Age (Years)": 64
+    "Country Age (Years)": 64,
+    "Continent": "Africa"
   },
   {
     "Country": "Angola",
     "Capital City": "Luanda",
     "Flag Adoption Year": "1975",
     "Flag Age (Years)": "51",
-    "Highest Office Holder": "President Jo\u00e3o Louren\u00e7o",
+    "Highest Office Holder": "President João Lourenço",
     "Office Holder Age (Years)": "72",
     "Country Formation Year": 1975,
-    "Country Age (Years)": 51
+    "Country Age (Years)": 51,
+    "Continent": "Africa"
   },
   {
     "Country": "Benin",
@@ -27,7 +29,8 @@
     "Highest Office Holder": "President Romuald Wadagni",
     "Office Holder Age (Years)": "49",
     "Country Formation Year": 1960,
-    "Country Age (Years)": 66
+    "Country Age (Years)": 66,
+    "Continent": "Africa"
   },
   {
     "Country": "Botswana",
@@ -37,27 +40,30 @@
     "Highest Office Holder": "President Duma Boko",
     "Office Holder Age (Years)": "56",
     "Country Formation Year": 1966,
-    "Country Age (Years)": 60
+    "Country Age (Years)": 60,
+    "Continent": "Africa"
   },
   {
     "Country": "Burkina Faso",
     "Capital City": "Ouagadougou",
     "Flag Adoption Year": "1984",
     "Flag Age (Years)": "42",
-    "Highest Office Holder": "President Ibrahim Traor\u00e9",
+    "Highest Office Holder": "President Ibrahim Traoré",
     "Office Holder Age (Years)": "38",
     "Country Formation Year": 1960,
-    "Country Age (Years)": 66
+    "Country Age (Years)": 66,
+    "Continent": "Africa"
   },
   {
     "Country": "Burundi",
     "Capital City": "Gitega",
     "Flag Adoption Year": "1967",
     "Flag Age (Years)": "59",
-    "Highest Office Holder": "President \u00c9variste Ndayishimiye",
+    "Highest Office Holder": "President Évariste Ndayishimiye",
     "Office Holder Age (Years)": "57",
     "Country Formation Year": 1962,
-    "Country Age (Years)": 64
+    "Country Age (Years)": 64,
+    "Continent": "Africa"
   },
   {
     "Country": "Cameroon",
@@ -67,37 +73,41 @@
     "Highest Office Holder": "President Paul Biya",
     "Office Holder Age (Years)": "93",
     "Country Formation Year": 1960,
-    "Country Age (Years)": 66
+    "Country Age (Years)": 66,
+    "Continent": "Africa"
   },
   {
     "Country": "Cape Verde",
     "Capital City": "Praia",
     "Flag Adoption Year": "1992",
     "Flag Age (Years)": "34",
-    "Highest Office Holder": "President Jos\u00e9 Maria Neves",
+    "Highest Office Holder": "President José Maria Neves",
     "Office Holder Age (Years)": "66",
     "Country Formation Year": 1975,
-    "Country Age (Years)": 51
+    "Country Age (Years)": 51,
+    "Continent": "Africa"
   },
   {
     "Country": "Central African Rep.",
     "Capital City": "Bangui",
     "Flag Adoption Year": "1958",
     "Flag Age (Years)": "68",
-    "Highest Office Holder": "President Faustin-Archange Touad\u00e9ra",
+    "Highest Office Holder": "President Faustin-Archange Touadéra",
     "Office Holder Age (Years)": "69",
     "Country Formation Year": 1960,
-    "Country Age (Years)": 66
+    "Country Age (Years)": 66,
+    "Continent": "Africa"
   },
   {
     "Country": "Chad",
     "Capital City": "N'Djamena",
     "Flag Adoption Year": "1959",
     "Flag Age (Years)": "67",
-    "Highest Office Holder": "President Mahamat D\u00e9by",
+    "Highest Office Holder": "President Mahamat Déby",
     "Office Holder Age (Years)": "42",
     "Country Formation Year": 1960,
-    "Country Age (Years)": 66
+    "Country Age (Years)": 66,
+    "Continent": "Africa"
   },
   {
     "Country": "Comoros",
@@ -107,17 +117,19 @@
     "Highest Office Holder": "President Azali Assoumani",
     "Office Holder Age (Years)": "67",
     "Country Formation Year": 1975,
-    "Country Age (Years)": 51
+    "Country Age (Years)": 51,
+    "Continent": "Africa"
   },
   {
     "Country": "Congo (DR)",
     "Capital City": "Kinshasa",
     "Flag Adoption Year": "2006",
     "Flag Age (Years)": "20",
-    "Highest Office Holder": "President F\u00e9lix Tshisekedi",
+    "Highest Office Holder": "President Félix Tshisekedi",
     "Office Holder Age (Years)": "62",
     "Country Formation Year": 1960,
-    "Country Age (Years)": 66
+    "Country Age (Years)": 66,
+    "Continent": "Africa"
   },
   {
     "Country": "Congo (Republic)",
@@ -127,7 +139,8 @@
     "Highest Office Holder": "President Denis Sassou Nguesso",
     "Office Holder Age (Years)": "82",
     "Country Formation Year": 1960,
-    "Country Age (Years)": 66
+    "Country Age (Years)": 66,
+    "Continent": "Africa"
   },
   {
     "Country": "Cote d'Ivoire",
@@ -137,17 +150,19 @@
     "Highest Office Holder": "President Alassane Ouattara",
     "Office Holder Age (Years)": "84",
     "Country Formation Year": 1960,
-    "Country Age (Years)": 66
+    "Country Age (Years)": 66,
+    "Continent": "Africa"
   },
   {
     "Country": "Djibouti",
     "Capital City": "Djibouti",
     "Flag Adoption Year": "1977",
     "Flag Age (Years)": "49",
-    "Highest Office Holder": "President Isma\u00efl Omar Guelleh",
+    "Highest Office Holder": "President Ismaïl Omar Guelleh",
     "Office Holder Age (Years)": "78",
     "Country Formation Year": 1977,
-    "Country Age (Years)": 49
+    "Country Age (Years)": 49,
+    "Continent": "Africa"
   },
   {
     "Country": "Egypt",
@@ -157,7 +172,8 @@
     "Highest Office Holder": "President Abdel Fattah el-Sisi",
     "Office Holder Age (Years)": "71",
     "Country Formation Year": 1922,
-    "Country Age (Years)": 104
+    "Country Age (Years)": 104,
+    "Continent": "Africa"
   },
   {
     "Country": "Equatorial Guinea",
@@ -167,7 +183,8 @@
     "Highest Office Holder": "President Teodoro Obiang Nguema Mbasogo",
     "Office Holder Age (Years)": "83",
     "Country Formation Year": 1968,
-    "Country Age (Years)": 58
+    "Country Age (Years)": 58,
+    "Continent": "Africa"
   },
   {
     "Country": "Eritrea",
@@ -177,7 +194,8 @@
     "Highest Office Holder": "President Isaias Afwerki",
     "Office Holder Age (Years)": "80",
     "Country Formation Year": 1993,
-    "Country Age (Years)": 33
+    "Country Age (Years)": 33,
+    "Continent": "Africa"
   },
   {
     "Country": "Eswatini",
@@ -187,7 +205,8 @@
     "Highest Office Holder": "King Mswati III",
     "Office Holder Age (Years)": "58",
     "Country Formation Year": 1968,
-    "Country Age (Years)": 58
+    "Country Age (Years)": 58,
+    "Continent": "Africa"
   },
   {
     "Country": "Ethiopia",
@@ -197,7 +216,8 @@
     "Highest Office Holder": "PM Abiy Ahmed",
     "Office Holder Age (Years)": "49",
     "Country Formation Year": -980,
-    "Country Age (Years)": 3006
+    "Country Age (Years)": 3006,
+    "Continent": "Africa"
   },
   {
     "Country": "Gabon",
@@ -207,7 +227,8 @@
     "Highest Office Holder": "President Brice Oligui Nguema",
     "Office Holder Age (Years)": "51",
     "Country Formation Year": 1960,
-    "Country Age (Years)": 66
+    "Country Age (Years)": 66,
+    "Continent": "Africa"
   },
   {
     "Country": "Gambia",
@@ -217,7 +238,8 @@
     "Highest Office Holder": "President Adama Barrow",
     "Office Holder Age (Years)": "61",
     "Country Formation Year": 1965,
-    "Country Age (Years)": 61
+    "Country Age (Years)": 61,
+    "Continent": "Africa"
   },
   {
     "Country": "Ghana",
@@ -227,7 +249,8 @@
     "Highest Office Holder": "President John Mahama",
     "Office Holder Age (Years)": "67",
     "Country Formation Year": 1957,
-    "Country Age (Years)": 69
+    "Country Age (Years)": 69,
+    "Continent": "Africa"
   },
   {
     "Country": "Guinea",
@@ -237,17 +260,19 @@
     "Highest Office Holder": "President Mamady Doumbouya",
     "Office Holder Age (Years)": "46",
     "Country Formation Year": 1958,
-    "Country Age (Years)": 68
+    "Country Age (Years)": 68,
+    "Continent": "Africa"
   },
   {
     "Country": "Guinea-Bissau",
     "Capital City": "Bissau",
     "Flag Adoption Year": "1973",
     "Flag Age (Years)": "53",
-    "Highest Office Holder": "President Umaro Sissoco Embal\u00f3",
+    "Highest Office Holder": "President Umaro Sissoco Embaló",
     "Office Holder Age (Years)": "53",
     "Country Formation Year": 1973,
-    "Country Age (Years)": 53
+    "Country Age (Years)": 53,
+    "Continent": "Africa"
   },
   {
     "Country": "Kenya",
@@ -257,7 +282,8 @@
     "Highest Office Holder": "President William Ruto",
     "Office Holder Age (Years)": "59",
     "Country Formation Year": 1963,
-    "Country Age (Years)": 63
+    "Country Age (Years)": 63,
+    "Continent": "Africa"
   },
   {
     "Country": "Lesotho",
@@ -267,7 +293,8 @@
     "Highest Office Holder": "King Letsie III",
     "Office Holder Age (Years)": "62",
     "Country Formation Year": 1966,
-    "Country Age (Years)": 60
+    "Country Age (Years)": 60,
+    "Continent": "Africa"
   },
   {
     "Country": "Liberia",
@@ -277,7 +304,8 @@
     "Highest Office Holder": "President Joseph Boakai",
     "Office Holder Age (Years)": "81",
     "Country Formation Year": 1847,
-    "Country Age (Years)": 179
+    "Country Age (Years)": 179,
+    "Continent": "Africa"
   },
   {
     "Country": "Libya",
@@ -287,7 +315,8 @@
     "Highest Office Holder": "Chairman Mohamed al-Menfi",
     "Office Holder Age (Years)": "50",
     "Country Formation Year": 1951,
-    "Country Age (Years)": 75
+    "Country Age (Years)": 75,
+    "Continent": "Africa"
   },
   {
     "Country": "Madagascar",
@@ -297,7 +326,8 @@
     "Highest Office Holder": "President Michael Randrianirina",
     "Office Holder Age (Years)": "54",
     "Country Formation Year": 1960,
-    "Country Age (Years)": 66
+    "Country Age (Years)": 66,
+    "Continent": "Africa"
   },
   {
     "Country": "Malawi",
@@ -307,17 +337,19 @@
     "Highest Office Holder": "President Peter Mutharika",
     "Office Holder Age (Years)": "85",
     "Country Formation Year": 1964,
-    "Country Age (Years)": 62
+    "Country Age (Years)": 62,
+    "Continent": "Africa"
   },
   {
     "Country": "Mali",
     "Capital City": "Bamako",
     "Flag Adoption Year": "1961",
     "Flag Age (Years)": "65",
-    "Highest Office Holder": "President Assimi Go\u00efta",
+    "Highest Office Holder": "President Assimi Goïta",
     "Office Holder Age (Years)": "43",
     "Country Formation Year": 1960,
-    "Country Age (Years)": 66
+    "Country Age (Years)": 66,
+    "Continent": "Africa"
   },
   {
     "Country": "Mauritania",
@@ -327,7 +359,8 @@
     "Highest Office Holder": "President Mohamed Ould Ghazouani",
     "Office Holder Age (Years)": "69",
     "Country Formation Year": 1960,
-    "Country Age (Years)": 66
+    "Country Age (Years)": 66,
+    "Continent": "Africa"
   },
   {
     "Country": "Mauritius",
@@ -337,7 +370,8 @@
     "Highest Office Holder": "PM Pravind Jugnauth",
     "Office Holder Age (Years)": "64",
     "Country Formation Year": 1968,
-    "Country Age (Years)": 58
+    "Country Age (Years)": 58,
+    "Continent": "Africa"
   },
   {
     "Country": "Morocco",
@@ -347,7 +381,8 @@
     "Highest Office Holder": "King Mohammed VI",
     "Office Holder Age (Years)": "62",
     "Country Formation Year": 1956,
-    "Country Age (Years)": 70
+    "Country Age (Years)": 70,
+    "Continent": "Africa"
   },
   {
     "Country": "Mozambique",
@@ -357,7 +392,8 @@
     "Highest Office Holder": "President Daniel Chapo",
     "Office Holder Age (Years)": "49",
     "Country Formation Year": 1975,
-    "Country Age (Years)": 51
+    "Country Age (Years)": 51,
+    "Continent": "Africa"
   },
   {
     "Country": "Namibia",
@@ -367,7 +403,8 @@
     "Highest Office Holder": "President Nangolo Mbumba",
     "Office Holder Age (Years)": "84",
     "Country Formation Year": 1990,
-    "Country Age (Years)": 36
+    "Country Age (Years)": 36,
+    "Continent": "Africa"
   },
   {
     "Country": "Niger",
@@ -377,7 +414,8 @@
     "Highest Office Holder": "General Abdourahamane Tchiani",
     "Office Holder Age (Years)": "62",
     "Country Formation Year": 1960,
-    "Country Age (Years)": 66
+    "Country Age (Years)": 66,
+    "Continent": "Africa"
   },
   {
     "Country": "Nigeria",
@@ -387,7 +425,8 @@
     "Highest Office Holder": "President Bola Tinubu",
     "Office Holder Age (Years)": "74",
     "Country Formation Year": 1960,
-    "Country Age (Years)": 66
+    "Country Age (Years)": 66,
+    "Continent": "Africa"
   },
   {
     "Country": "Rwanda",
@@ -397,7 +436,8 @@
     "Highest Office Holder": "President Paul Kagame",
     "Office Holder Age (Years)": "68",
     "Country Formation Year": 1962,
-    "Country Age (Years)": 64
+    "Country Age (Years)": 64,
+    "Continent": "Africa"
   },
   {
     "Country": "Sao Tome / Principe",
@@ -407,7 +447,8 @@
     "Highest Office Holder": "President Carlos Vila Nova",
     "Office Holder Age (Years)": "66",
     "Country Formation Year": 1975,
-    "Country Age (Years)": 51
+    "Country Age (Years)": 51,
+    "Continent": "Africa"
   },
   {
     "Country": "Senegal",
@@ -417,7 +458,8 @@
     "Highest Office Holder": "President Bassirou Diomaye Faye",
     "Office Holder Age (Years)": "46",
     "Country Formation Year": 1960,
-    "Country Age (Years)": 66
+    "Country Age (Years)": 66,
+    "Continent": "Africa"
   },
   {
     "Country": "Seychelles",
@@ -427,7 +469,8 @@
     "Highest Office Holder": "President Wavel Ramkalawan",
     "Office Holder Age (Years)": "65",
     "Country Formation Year": 1976,
-    "Country Age (Years)": 50
+    "Country Age (Years)": 50,
+    "Continent": "Africa"
   },
   {
     "Country": "Sierra Leone",
@@ -437,7 +480,8 @@
     "Highest Office Holder": "President Julius Maada Bio",
     "Office Holder Age (Years)": "61",
     "Country Formation Year": 1961,
-    "Country Age (Years)": 65
+    "Country Age (Years)": 65,
+    "Continent": "Africa"
   },
   {
     "Country": "Somalia",
@@ -447,7 +491,8 @@
     "Highest Office Holder": "President Hassan Sheikh Mohamud",
     "Office Holder Age (Years)": "70",
     "Country Formation Year": 1960,
-    "Country Age (Years)": 66
+    "Country Age (Years)": 66,
+    "Continent": "Africa"
   },
   {
     "Country": "South Africa",
@@ -457,7 +502,8 @@
     "Highest Office Holder": "President Cyril Ramaphosa",
     "Office Holder Age (Years)": "73",
     "Country Formation Year": 1910,
-    "Country Age (Years)": 116
+    "Country Age (Years)": 116,
+    "Continent": "Africa"
   },
   {
     "Country": "South Sudan",
@@ -467,7 +513,8 @@
     "Highest Office Holder": "President Salva Kiir Mayardit",
     "Office Holder Age (Years)": "74",
     "Country Formation Year": 2011,
-    "Country Age (Years)": 15
+    "Country Age (Years)": 15,
+    "Continent": "Africa"
   },
   {
     "Country": "Sudan",
@@ -477,7 +524,8 @@
     "Highest Office Holder": "General Abdel Fattah al-Burhan",
     "Office Holder Age (Years)": "65",
     "Country Formation Year": 1956,
-    "Country Age (Years)": 70
+    "Country Age (Years)": 70,
+    "Continent": "Africa"
   },
   {
     "Country": "Tanzania",
@@ -487,27 +535,30 @@
     "Highest Office Holder": "President Samia Suluhu Hassan",
     "Office Holder Age (Years)": "66",
     "Country Formation Year": 1961,
-    "Country Age (Years)": 65
+    "Country Age (Years)": 65,
+    "Continent": "Africa"
   },
   {
     "Country": "Togo",
     "Capital City": "Lome",
     "Flag Adoption Year": "1960",
     "Flag Age (Years)": "66",
-    "Highest Office Holder": "President Jean-Lucien Savi de Tov\u00e9",
+    "Highest Office Holder": "President Jean-Lucien Savi de Tové",
     "Office Holder Age (Years)": "86",
     "Country Formation Year": 1960,
-    "Country Age (Years)": 66
+    "Country Age (Years)": 66,
+    "Continent": "Africa"
   },
   {
     "Country": "Tunisia",
     "Capital City": "Tunis",
     "Flag Adoption Year": "1831",
     "Flag Age (Years)": "195",
-    "Highest Office Holder": "President Ka\u00efs Sa\u00efed",
+    "Highest Office Holder": "President Kaïs Saïed",
     "Office Holder Age (Years)": "68",
     "Country Formation Year": 1956,
-    "Country Age (Years)": 70
+    "Country Age (Years)": 70,
+    "Continent": "Africa"
   },
   {
     "Country": "Uganda",
@@ -517,7 +568,8 @@
     "Highest Office Holder": "President Yoweri Museveni",
     "Office Holder Age (Years)": "81",
     "Country Formation Year": 1962,
-    "Country Age (Years)": 64
+    "Country Age (Years)": 64,
+    "Continent": "Africa"
   },
   {
     "Country": "Zambia",
@@ -527,7 +579,8 @@
     "Highest Office Holder": "President Hakainde Hichilema",
     "Office Holder Age (Years)": "63",
     "Country Formation Year": 1964,
-    "Country Age (Years)": 62
+    "Country Age (Years)": 62,
+    "Continent": "Africa"
   },
   {
     "Country": "Zimbabwe",
@@ -537,7 +590,8 @@
     "Highest Office Holder": "President Emmerson Mnangagwa",
     "Office Holder Age (Years)": "83",
     "Country Formation Year": 1980,
-    "Country Age (Years)": 46
+    "Country Age (Years)": 46,
+    "Continent": "Africa"
   },
   {
     "Country": "Albania",
@@ -547,7 +601,8 @@
     "Highest Office Holder": "President Bajram Begaj",
     "Office Holder Age (Years)": "59",
     "Country Formation Year": 1912,
-    "Country Age (Years)": 114
+    "Country Age (Years)": 114,
+    "Continent": "Europe"
   },
   {
     "Country": "Andorra",
@@ -557,7 +612,8 @@
     "Highest Office Holder": "Co-Prince Emmanuel Macron",
     "Office Holder Age (Years)": "48",
     "Country Formation Year": 1278,
-    "Country Age (Years)": 748
+    "Country Age (Years)": 748,
+    "Continent": "Europe"
   },
   {
     "Country": "Austria",
@@ -567,7 +623,8 @@
     "Highest Office Holder": "Chancellor Christian Stocker",
     "Office Holder Age (Years)": "65",
     "Country Formation Year": 1955,
-    "Country Age (Years)": 71
+    "Country Age (Years)": 71,
+    "Continent": "Europe"
   },
   {
     "Country": "Belarus",
@@ -577,7 +634,8 @@
     "Highest Office Holder": "President Alexander Lukashenko",
     "Office Holder Age (Years)": "71",
     "Country Formation Year": 1991,
-    "Country Age (Years)": 35
+    "Country Age (Years)": 35,
+    "Continent": "Europe"
   },
   {
     "Country": "Belgium",
@@ -587,17 +645,19 @@
     "Highest Office Holder": "PM Bart De Wever",
     "Office Holder Age (Years)": "55",
     "Country Formation Year": 1830,
-    "Country Age (Years)": 196
+    "Country Age (Years)": 196,
+    "Continent": "Europe"
   },
   {
     "Country": "Bosnia / Herz.",
     "Capital City": "Sarajevo",
     "Flag Adoption Year": "1998",
     "Flag Age (Years)": "28",
-    "Highest Office Holder": "Chair Denis Be\u0107irovi\u0107",
+    "Highest Office Holder": "Chair Denis Bećirović",
     "Office Holder Age (Years)": "51",
     "Country Formation Year": 1992,
-    "Country Age (Years)": 34
+    "Country Age (Years)": 34,
+    "Continent": "Europe"
   },
   {
     "Country": "Bulgaria",
@@ -607,17 +667,19 @@
     "Highest Office Holder": "President Iliana Iotova",
     "Office Holder Age (Years)": "61",
     "Country Formation Year": 1908,
-    "Country Age (Years)": 118
+    "Country Age (Years)": 118,
+    "Continent": "Europe"
   },
   {
     "Country": "Croatia",
     "Capital City": "Zagreb",
     "Flag Adoption Year": "1990",
     "Flag Age (Years)": "36",
-    "Highest Office Holder": "PM Andrej Plenkovi\u0107",
+    "Highest Office Holder": "PM Andrej Plenković",
     "Office Holder Age (Years)": "56",
     "Country Formation Year": 1991,
-    "Country Age (Years)": 35
+    "Country Age (Years)": 35,
+    "Continent": "Europe"
   },
   {
     "Country": "Cyprus",
@@ -627,17 +689,19 @@
     "Highest Office Holder": "President Nikos Christodoulides",
     "Office Holder Age (Years)": "52",
     "Country Formation Year": 1960,
-    "Country Age (Years)": 66
+    "Country Age (Years)": 66,
+    "Continent": "Europe"
   },
   {
     "Country": "Czech Republic",
     "Capital City": "Prague",
     "Flag Adoption Year": "1993",
     "Flag Age (Years)": "33",
-    "Highest Office Holder": "PM Andrej Babi\u0161",
+    "Highest Office Holder": "PM Andrej Babiš",
     "Office Holder Age (Years)": "71",
     "Country Formation Year": 1993,
-    "Country Age (Years)": 33
+    "Country Age (Years)": 33,
+    "Continent": "Europe"
   },
   {
     "Country": "Denmark",
@@ -647,7 +711,8 @@
     "Highest Office Holder": "PM Mette Frederiksen",
     "Office Holder Age (Years)": "48",
     "Country Formation Year": 965,
-    "Country Age (Years)": 1061
+    "Country Age (Years)": 1061,
+    "Continent": "Europe"
   },
   {
     "Country": "Estonia",
@@ -657,7 +722,8 @@
     "Highest Office Holder": "President Alar Karis",
     "Office Holder Age (Years)": "68",
     "Country Formation Year": 1918,
-    "Country Age (Years)": 108
+    "Country Age (Years)": 108,
+    "Continent": "Europe"
   },
   {
     "Country": "Finland",
@@ -667,7 +733,8 @@
     "Highest Office Holder": "President Alexander Stubb",
     "Office Holder Age (Years)": "58",
     "Country Formation Year": 1917,
-    "Country Age (Years)": 109
+    "Country Age (Years)": 109,
+    "Continent": "Europe"
   },
   {
     "Country": "France",
@@ -677,7 +744,8 @@
     "Highest Office Holder": "President Emmanuel Macron",
     "Office Holder Age (Years)": "48",
     "Country Formation Year": 843,
-    "Country Age (Years)": 1183
+    "Country Age (Years)": 1183,
+    "Continent": "Europe"
   },
   {
     "Country": "Germany",
@@ -687,7 +755,8 @@
     "Highest Office Holder": "Chancellor Friedrich Merz",
     "Office Holder Age (Years)": "70",
     "Country Formation Year": 1871,
-    "Country Age (Years)": 155
+    "Country Age (Years)": 155,
+    "Continent": "Europe"
   },
   {
     "Country": "Greece",
@@ -697,27 +766,30 @@
     "Highest Office Holder": "PM Kyriakos Mitsotakis",
     "Office Holder Age (Years)": "58",
     "Country Formation Year": 1821,
-    "Country Age (Years)": 205
+    "Country Age (Years)": 205,
+    "Continent": "Europe"
   },
   {
     "Country": "Hungary",
     "Capital City": "Budapest",
     "Flag Adoption Year": "1990",
     "Flag Age (Years)": "36",
-    "Highest Office Holder": "PM P\u00e9ter Magyar",
+    "Highest Office Holder": "PM Péter Magyar",
     "Office Holder Age (Years)": "45",
     "Country Formation Year": 1000,
-    "Country Age (Years)": 1026
+    "Country Age (Years)": 1026,
+    "Continent": "Europe"
   },
   {
     "Country": "Iceland",
     "Capital City": "Reykjavik",
     "Flag Adoption Year": "1944",
     "Flag Age (Years)": "82",
-    "Highest Office Holder": "PM Kristr\u00fan Frostad\u00f3ttir",
+    "Highest Office Holder": "PM Kristrún Frostadóttir",
     "Office Holder Age (Years)": "37",
     "Country Formation Year": 1944,
-    "Country Age (Years)": 82
+    "Country Age (Years)": 82,
+    "Continent": "Europe"
   },
   {
     "Country": "Ireland",
@@ -727,7 +799,8 @@
     "Highest Office Holder": "President Catherine Connolly",
     "Office Holder Age (Years)": "69",
     "Country Formation Year": 1922,
-    "Country Age (Years)": 104
+    "Country Age (Years)": 104,
+    "Continent": "Europe"
   },
   {
     "Country": "Italy",
@@ -737,17 +810,19 @@
     "Highest Office Holder": "PM Giorgia Meloni",
     "Office Holder Age (Years)": "49",
     "Country Formation Year": 1861,
-    "Country Age (Years)": 165
+    "Country Age (Years)": 165,
+    "Continent": "Europe"
   },
   {
     "Country": "Latvia",
     "Capital City": "Riga",
     "Flag Adoption Year": "1921",
     "Flag Age (Years)": "105",
-    "Highest Office Holder": "PM Evika Sili\u0146a",
+    "Highest Office Holder": "PM Evika Siliņa",
     "Office Holder Age (Years)": "51",
     "Country Formation Year": 1918,
-    "Country Age (Years)": 108
+    "Country Age (Years)": 108,
+    "Continent": "Europe"
   },
   {
     "Country": "Liechtenstein",
@@ -757,17 +832,19 @@
     "Highest Office Holder": "Prince Hans-Adam II",
     "Office Holder Age (Years)": "81",
     "Country Formation Year": 1806,
-    "Country Age (Years)": 220
+    "Country Age (Years)": 220,
+    "Continent": "Europe"
   },
   {
     "Country": "Lithuania",
     "Capital City": "Vilnius",
     "Flag Adoption Year": "1988",
     "Flag Age (Years)": "38",
-    "Highest Office Holder": "President Gitanas Naus\u0117da",
+    "Highest Office Holder": "President Gitanas Nausėda",
     "Office Holder Age (Years)": "61",
     "Country Formation Year": 1918,
-    "Country Age (Years)": 108
+    "Country Age (Years)": 108,
+    "Continent": "Europe"
   },
   {
     "Country": "Luxembourg",
@@ -777,7 +854,8 @@
     "Highest Office Holder": "Grand Duke Guillaume V",
     "Office Holder Age (Years)": "44",
     "Country Formation Year": 1867,
-    "Country Age (Years)": 159
+    "Country Age (Years)": 159,
+    "Continent": "Europe"
   },
   {
     "Country": "Malta",
@@ -787,7 +865,8 @@
     "Highest Office Holder": "President Myriam Spiteri Debono",
     "Office Holder Age (Years)": "73",
     "Country Formation Year": 1964,
-    "Country Age (Years)": 62
+    "Country Age (Years)": 62,
+    "Continent": "Europe"
   },
   {
     "Country": "Moldova",
@@ -797,7 +876,8 @@
     "Highest Office Holder": "President Maia Sandu",
     "Office Holder Age (Years)": "53",
     "Country Formation Year": 1991,
-    "Country Age (Years)": 35
+    "Country Age (Years)": 35,
+    "Continent": "Europe"
   },
   {
     "Country": "Monaco",
@@ -807,17 +887,19 @@
     "Highest Office Holder": "Prince Albert II",
     "Office Holder Age (Years)": "68",
     "Country Formation Year": 1297,
-    "Country Age (Years)": 729
+    "Country Age (Years)": 729,
+    "Continent": "Europe"
   },
   {
     "Country": "Montenegro",
     "Capital City": "Podgorica",
     "Flag Adoption Year": "2004",
     "Flag Age (Years)": "22",
-    "Highest Office Holder": "PM Milojko Spaji\u0107",
+    "Highest Office Holder": "PM Milojko Spajić",
     "Office Holder Age (Years)": "38",
     "Country Formation Year": 2006,
-    "Country Age (Years)": 20
+    "Country Age (Years)": 20,
+    "Continent": "Europe"
   },
   {
     "Country": "Netherlands",
@@ -827,7 +909,8 @@
     "Highest Office Holder": "PM Rob Jetten",
     "Office Holder Age (Years)": "39",
     "Country Formation Year": 1581,
-    "Country Age (Years)": 445
+    "Country Age (Years)": 445,
+    "Continent": "Europe"
   },
   {
     "Country": "North Macedonia",
@@ -837,7 +920,8 @@
     "Highest Office Holder": "President Gordana Siljanovska-Davkova",
     "Office Holder Age (Years)": "72",
     "Country Formation Year": 1991,
-    "Country Age (Years)": 35
+    "Country Age (Years)": 35,
+    "Continent": "Europe"
   },
   {
     "Country": "Norway",
@@ -847,7 +931,8 @@
     "Highest Office Holder": "King Harald V",
     "Office Holder Age (Years)": "89",
     "Country Formation Year": 1905,
-    "Country Age (Years)": 121
+    "Country Age (Years)": 121,
+    "Continent": "Europe"
   },
   {
     "Country": "Poland",
@@ -857,27 +942,30 @@
     "Highest Office Holder": "President Karol Nawrocki",
     "Office Holder Age (Years)": "43",
     "Country Formation Year": 1918,
-    "Country Age (Years)": 108
+    "Country Age (Years)": 108,
+    "Continent": "Europe"
   },
   {
     "Country": "Portugal",
     "Capital City": "Lisbon",
     "Flag Adoption Year": "1911",
     "Flag Age (Years)": "115",
-    "Highest Office Holder": "President Ant\u00f3nio Jos\u00e9 Seguro",
+    "Highest Office Holder": "President António José Seguro",
     "Office Holder Age (Years)": "64",
     "Country Formation Year": 1139,
-    "Country Age (Years)": 887
+    "Country Age (Years)": 887,
+    "Continent": "Europe"
   },
   {
     "Country": "Romania",
     "Capital City": "Bucharest",
     "Flag Adoption Year": "1989",
     "Flag Age (Years)": "37",
-    "Highest Office Holder": "President Nicu\u0219or Dan",
+    "Highest Office Holder": "President Nicușor Dan",
     "Office Holder Age (Years)": "56",
     "Country Formation Year": 1877,
-    "Country Age (Years)": 149
+    "Country Age (Years)": 149,
+    "Continent": "Europe"
   },
   {
     "Country": "Russia",
@@ -887,7 +975,8 @@
     "Highest Office Holder": "President Vladimir Putin",
     "Office Holder Age (Years)": "73",
     "Country Formation Year": 1990,
-    "Country Age (Years)": 36
+    "Country Age (Years)": 36,
+    "Continent": "Europe"
   },
   {
     "Country": "San Marino",
@@ -897,17 +986,19 @@
     "Highest Office Holder": "Captain Regent Alice Mina",
     "Office Holder Age (Years)": "39",
     "Country Formation Year": 301,
-    "Country Age (Years)": 1725
+    "Country Age (Years)": 1725,
+    "Continent": "Europe"
   },
   {
     "Country": "Serbia",
     "Capital City": "Belgrade",
     "Flag Adoption Year": "2004",
     "Flag Age (Years)": "22",
-    "Highest Office Holder": "President Aleksandar Vu\u010di\u0107",
+    "Highest Office Holder": "President Aleksandar Vučić",
     "Office Holder Age (Years)": "56",
     "Country Formation Year": 1878,
-    "Country Age (Years)": 148
+    "Country Age (Years)": 148,
+    "Continent": "Europe"
   },
   {
     "Country": "Slovakia",
@@ -917,27 +1008,30 @@
     "Highest Office Holder": "President Peter Pellegrini",
     "Office Holder Age (Years)": "50",
     "Country Formation Year": 1993,
-    "Country Age (Years)": 33
+    "Country Age (Years)": 33,
+    "Continent": "Europe"
   },
   {
     "Country": "Slovenia",
     "Capital City": "Ljubljana",
     "Flag Adoption Year": "1991",
     "Flag Age (Years)": "35",
-    "Highest Office Holder": "President Nata\u0161a Pirc Musar",
+    "Highest Office Holder": "President Nataša Pirc Musar",
     "Office Holder Age (Years)": "58",
     "Country Formation Year": 1991,
-    "Country Age (Years)": 35
+    "Country Age (Years)": 35,
+    "Continent": "Europe"
   },
   {
     "Country": "Spain",
     "Capital City": "Madrid",
     "Flag Adoption Year": "1981",
     "Flag Age (Years)": "45",
-    "Highest Office Holder": "PM Pedro S\u00e1nchez",
+    "Highest Office Holder": "PM Pedro Sánchez",
     "Office Holder Age (Years)": "54",
     "Country Formation Year": 1492,
-    "Country Age (Years)": 534
+    "Country Age (Years)": 534,
+    "Continent": "Europe"
   },
   {
     "Country": "Sweden",
@@ -947,7 +1041,8 @@
     "Highest Office Holder": "PM Ulf Kristersson",
     "Office Holder Age (Years)": "62",
     "Country Formation Year": 1523,
-    "Country Age (Years)": 503
+    "Country Age (Years)": 503,
+    "Continent": "Europe"
   },
   {
     "Country": "Switzerland",
@@ -957,7 +1052,8 @@
     "Highest Office Holder": "President Guy Parmelin",
     "Office Holder Age (Years)": "66",
     "Country Formation Year": 1291,
-    "Country Age (Years)": 735
+    "Country Age (Years)": 735,
+    "Continent": "Europe"
   },
   {
     "Country": "Ukraine",
@@ -967,7 +1063,8 @@
     "Highest Office Holder": "President Volodymyr Zelenskyy",
     "Office Holder Age (Years)": "48",
     "Country Formation Year": 1991,
-    "Country Age (Years)": 35
+    "Country Age (Years)": 35,
+    "Continent": "Europe"
   },
   {
     "Country": "United Kingdom",
@@ -977,7 +1074,8 @@
     "Highest Office Holder": "PM Keir Starmer",
     "Office Holder Age (Years)": "63",
     "Country Formation Year": 1707,
-    "Country Age (Years)": 319
+    "Country Age (Years)": 319,
+    "Continent": "Europe"
   },
   {
     "Country": "Vatican City",
@@ -987,7 +1085,8 @@
     "Highest Office Holder": "Pope Leo XIV",
     "Office Holder Age (Years)": "70",
     "Country Formation Year": 1929,
-    "Country Age (Years)": 97
+    "Country Age (Years)": 97,
+    "Continent": "Europe"
   },
   {
     "Country": "Afghanistan",
@@ -997,7 +1096,8 @@
     "Highest Office Holder": "Supreme Leader Hibatullah Akhundzada",
     "Office Holder Age (Years)": "58",
     "Country Formation Year": 1919,
-    "Country Age (Years)": 107
+    "Country Age (Years)": 107,
+    "Continent": "Asia"
   },
   {
     "Country": "Armenia",
@@ -1007,7 +1107,8 @@
     "Highest Office Holder": "President Vahagn Khachaturyan",
     "Office Holder Age (Years)": "66",
     "Country Formation Year": 1991,
-    "Country Age (Years)": 35
+    "Country Age (Years)": 35,
+    "Continent": "Asia"
   },
   {
     "Country": "Azerbaijan",
@@ -1017,7 +1118,8 @@
     "Highest Office Holder": "President Ilham Aliyev",
     "Office Holder Age (Years)": "64",
     "Country Formation Year": 1991,
-    "Country Age (Years)": 35
+    "Country Age (Years)": 35,
+    "Continent": "Asia"
   },
   {
     "Country": "Bahrain",
@@ -1027,7 +1129,8 @@
     "Highest Office Holder": "King Hamad bin Isa Al Khalifa",
     "Office Holder Age (Years)": "76",
     "Country Formation Year": 1971,
-    "Country Age (Years)": 55
+    "Country Age (Years)": 55,
+    "Continent": "Asia"
   },
   {
     "Country": "Bangladesh",
@@ -1037,7 +1140,8 @@
     "Highest Office Holder": "PM Tarique Rahman",
     "Office Holder Age (Years)": "58",
     "Country Formation Year": 1971,
-    "Country Age (Years)": 55
+    "Country Age (Years)": 55,
+    "Continent": "Asia"
   },
   {
     "Country": "Bhutan",
@@ -1047,7 +1151,8 @@
     "Highest Office Holder": "King Jigme Khesar Namgyel Wangchuck",
     "Office Holder Age (Years)": "46",
     "Country Formation Year": 1907,
-    "Country Age (Years)": 119
+    "Country Age (Years)": 119,
+    "Continent": "Asia"
   },
   {
     "Country": "Brunei",
@@ -1057,7 +1162,8 @@
     "Highest Office Holder": "Sultan Hassanal Bolkiah",
     "Office Holder Age (Years)": "79",
     "Country Formation Year": 1984,
-    "Country Age (Years)": 42
+    "Country Age (Years)": 42,
+    "Continent": "Asia"
   },
   {
     "Country": "Cambodia",
@@ -1067,7 +1173,8 @@
     "Highest Office Holder": "PM Hun Manet",
     "Office Holder Age (Years)": "48",
     "Country Formation Year": 1953,
-    "Country Age (Years)": 73
+    "Country Age (Years)": 73,
+    "Continent": "Asia"
   },
   {
     "Country": "China",
@@ -1077,7 +1184,8 @@
     "Highest Office Holder": "President Xi Jinping",
     "Office Holder Age (Years)": "72",
     "Country Formation Year": 1949,
-    "Country Age (Years)": 77
+    "Country Age (Years)": 77,
+    "Continent": "Asia"
   },
   {
     "Country": "Georgia",
@@ -1087,7 +1195,8 @@
     "Highest Office Holder": "PM Irakli Kobakhidze",
     "Office Holder Age (Years)": "47",
     "Country Formation Year": 1991,
-    "Country Age (Years)": 35
+    "Country Age (Years)": 35,
+    "Continent": "Asia"
   },
   {
     "Country": "India",
@@ -1097,7 +1206,8 @@
     "Highest Office Holder": "PM Narendra Modi",
     "Office Holder Age (Years)": "75",
     "Country Formation Year": 1947,
-    "Country Age (Years)": 79
+    "Country Age (Years)": 79,
+    "Continent": "Asia"
   },
   {
     "Country": "Indonesia",
@@ -1107,7 +1217,8 @@
     "Highest Office Holder": "President Prabowo Subianto",
     "Office Holder Age (Years)": "74",
     "Country Formation Year": 1945,
-    "Country Age (Years)": 81
+    "Country Age (Years)": 81,
+    "Continent": "Asia"
   },
   {
     "Country": "Iran",
@@ -1117,7 +1228,8 @@
     "Highest Office Holder": "Supreme Leader Mojtaba Khamenei",
     "Office Holder Age (Years)": "56",
     "Country Formation Year": 1979,
-    "Country Age (Years)": 47
+    "Country Age (Years)": 47,
+    "Continent": "Asia"
   },
   {
     "Country": "Iraq",
@@ -1127,7 +1239,8 @@
     "Highest Office Holder": "President Nizar Amedi",
     "Office Holder Age (Years)": "58",
     "Country Formation Year": 1932,
-    "Country Age (Years)": 94
+    "Country Age (Years)": 94,
+    "Continent": "Asia"
   },
   {
     "Country": "Israel",
@@ -1137,7 +1250,8 @@
     "Highest Office Holder": "PM Benjamin Netanyahu",
     "Office Holder Age (Years)": "76",
     "Country Formation Year": 1948,
-    "Country Age (Years)": 78
+    "Country Age (Years)": 78,
+    "Continent": "Asia"
   },
   {
     "Country": "Japan",
@@ -1147,7 +1261,8 @@
     "Highest Office Holder": "PM Sanae Takaichi",
     "Office Holder Age (Years)": "65",
     "Country Formation Year": -660,
-    "Country Age (Years)": 2686
+    "Country Age (Years)": 2686,
+    "Continent": "Asia"
   },
   {
     "Country": "Jordan",
@@ -1157,7 +1272,8 @@
     "Highest Office Holder": "King Abdullah II",
     "Office Holder Age (Years)": "64",
     "Country Formation Year": 1946,
-    "Country Age (Years)": 80
+    "Country Age (Years)": 80,
+    "Continent": "Asia"
   },
   {
     "Country": "Kazakhstan",
@@ -1167,7 +1283,8 @@
     "Highest Office Holder": "President Kassym-Jomart Tokayev",
     "Office Holder Age (Years)": "72",
     "Country Formation Year": 1991,
-    "Country Age (Years)": 35
+    "Country Age (Years)": 35,
+    "Continent": "Asia"
   },
   {
     "Country": "Kuwait",
@@ -1177,7 +1294,8 @@
     "Highest Office Holder": "Emir Mishal Al-Sabah",
     "Office Holder Age (Years)": "85",
     "Country Formation Year": 1961,
-    "Country Age (Years)": 65
+    "Country Age (Years)": 65,
+    "Continent": "Asia"
   },
   {
     "Country": "Kyrgyzstan",
@@ -1187,7 +1305,8 @@
     "Highest Office Holder": "President Sadyr Japarov",
     "Office Holder Age (Years)": "57",
     "Country Formation Year": 1991,
-    "Country Age (Years)": 35
+    "Country Age (Years)": 35,
+    "Continent": "Asia"
   },
   {
     "Country": "Laos",
@@ -1197,7 +1316,8 @@
     "Highest Office Holder": "President Thongloun Sisoulith",
     "Office Holder Age (Years)": "80",
     "Country Formation Year": 1953,
-    "Country Age (Years)": 73
+    "Country Age (Years)": 73,
+    "Continent": "Asia"
   },
   {
     "Country": "Lebanon",
@@ -1207,7 +1327,8 @@
     "Highest Office Holder": "President Joseph Aoun",
     "Office Holder Age (Years)": "62",
     "Country Formation Year": 1943,
-    "Country Age (Years)": 83
+    "Country Age (Years)": 83,
+    "Continent": "Asia"
   },
   {
     "Country": "Malaysia",
@@ -1217,7 +1338,8 @@
     "Highest Office Holder": "King Ibrahim Iskandar",
     "Office Holder Age (Years)": "67",
     "Country Formation Year": 1957,
-    "Country Age (Years)": 69
+    "Country Age (Years)": 69,
+    "Continent": "Asia"
   },
   {
     "Country": "Maldives",
@@ -1227,7 +1349,8 @@
     "Highest Office Holder": "President Mohamed Muizzu",
     "Office Holder Age (Years)": "47",
     "Country Formation Year": 1965,
-    "Country Age (Years)": 61
+    "Country Age (Years)": 61,
+    "Continent": "Asia"
   },
   {
     "Country": "Mongolia",
@@ -1237,7 +1360,8 @@
     "Highest Office Holder": "PM Nyam-Osoryn Uchral",
     "Office Holder Age (Years)": "39",
     "Country Formation Year": 1911,
-    "Country Age (Years)": 115
+    "Country Age (Years)": 115,
+    "Continent": "Asia"
   },
   {
     "Country": "Myanmar",
@@ -1247,7 +1371,8 @@
     "Highest Office Holder": "General Min Aung Hlaing",
     "Office Holder Age (Years)": "69",
     "Country Formation Year": 1948,
-    "Country Age (Years)": 78
+    "Country Age (Years)": 78,
+    "Continent": "Asia"
   },
   {
     "Country": "Nepal",
@@ -1257,7 +1382,8 @@
     "Highest Office Holder": "PM Balendra Shah",
     "Office Holder Age (Years)": "35",
     "Country Formation Year": 1768,
-    "Country Age (Years)": 258
+    "Country Age (Years)": 258,
+    "Continent": "Asia"
   },
   {
     "Country": "North Korea",
@@ -1267,7 +1393,8 @@
     "Highest Office Holder": "Supreme Leader Kim Jong Un",
     "Office Holder Age (Years)": "42",
     "Country Formation Year": 1948,
-    "Country Age (Years)": 78
+    "Country Age (Years)": 78,
+    "Continent": "Asia"
   },
   {
     "Country": "Oman",
@@ -1277,7 +1404,8 @@
     "Highest Office Holder": "Sultan Haitham bin Tariq",
     "Office Holder Age (Years)": "71",
     "Country Formation Year": 1650,
-    "Country Age (Years)": 376
+    "Country Age (Years)": 376,
+    "Continent": "Asia"
   },
   {
     "Country": "Pakistan",
@@ -1287,7 +1415,8 @@
     "Highest Office Holder": "PM Shehbaz Sharif",
     "Office Holder Age (Years)": "74",
     "Country Formation Year": 1947,
-    "Country Age (Years)": 79
+    "Country Age (Years)": 79,
+    "Continent": "Asia"
   },
   {
     "Country": "Palestine",
@@ -1297,7 +1426,8 @@
     "Highest Office Holder": "President Mahmoud Abbas",
     "Office Holder Age (Years)": "90",
     "Country Formation Year": 1988,
-    "Country Age (Years)": 38
+    "Country Age (Years)": 38,
+    "Continent": "Asia"
   },
   {
     "Country": "Philippines",
@@ -1307,7 +1437,8 @@
     "Highest Office Holder": "President Bongbong Marcos",
     "Office Holder Age (Years)": "68",
     "Country Formation Year": 1898,
-    "Country Age (Years)": 128
+    "Country Age (Years)": 128,
+    "Continent": "Asia"
   },
   {
     "Country": "Qatar",
@@ -1317,7 +1448,8 @@
     "Highest Office Holder": "Emir Tamim bin Hamad Al Thani",
     "Office Holder Age (Years)": "45",
     "Country Formation Year": 1971,
-    "Country Age (Years)": 55
+    "Country Age (Years)": 55,
+    "Continent": "Asia"
   },
   {
     "Country": "Saudi Arabia",
@@ -1327,7 +1459,8 @@
     "Highest Office Holder": "King Salman bin Abdulaziz",
     "Office Holder Age (Years)": "90",
     "Country Formation Year": 1932,
-    "Country Age (Years)": 94
+    "Country Age (Years)": 94,
+    "Continent": "Asia"
   },
   {
     "Country": "Singapore",
@@ -1337,7 +1470,8 @@
     "Highest Office Holder": "PM Lawrence Wong",
     "Office Holder Age (Years)": "53",
     "Country Formation Year": 1965,
-    "Country Age (Years)": 61
+    "Country Age (Years)": 61,
+    "Continent": "Asia"
   },
   {
     "Country": "South Korea",
@@ -1347,7 +1481,8 @@
     "Highest Office Holder": "President Lee Jae Myung",
     "Office Holder Age (Years)": "61",
     "Country Formation Year": 1948,
-    "Country Age (Years)": 78
+    "Country Age (Years)": 78,
+    "Continent": "Asia"
   },
   {
     "Country": "Sri Lanka",
@@ -1357,7 +1492,8 @@
     "Highest Office Holder": "President Anura Kumara Dissanayake",
     "Office Holder Age (Years)": "57",
     "Country Formation Year": 1948,
-    "Country Age (Years)": 78
+    "Country Age (Years)": 78,
+    "Continent": "Asia"
   },
   {
     "Country": "Syria",
@@ -1367,7 +1503,8 @@
     "Highest Office Holder": "President Ahmed al-Sharaa",
     "Office Holder Age (Years)": "44",
     "Country Formation Year": 1946,
-    "Country Age (Years)": 80
+    "Country Age (Years)": 80,
+    "Continent": "Asia"
   },
   {
     "Country": "Taiwan",
@@ -1377,7 +1514,8 @@
     "Highest Office Holder": "President Lai Ching-te",
     "Office Holder Age (Years)": "66",
     "Country Formation Year": 1911,
-    "Country Age (Years)": 115
+    "Country Age (Years)": 115,
+    "Continent": "Asia"
   },
   {
     "Country": "Tajikistan",
@@ -1387,7 +1525,8 @@
     "Highest Office Holder": "President Emomali Rahmon",
     "Office Holder Age (Years)": "73",
     "Country Formation Year": 1991,
-    "Country Age (Years)": 35
+    "Country Age (Years)": 35,
+    "Continent": "Asia"
   },
   {
     "Country": "Thailand",
@@ -1397,27 +1536,30 @@
     "Highest Office Holder": "PM Paetongtarn Shinawatra",
     "Office Holder Age (Years)": "39",
     "Country Formation Year": 1238,
-    "Country Age (Years)": 788
+    "Country Age (Years)": 788,
+    "Continent": "Asia"
   },
   {
     "Country": "Timor-Leste",
     "Capital City": "Dili",
     "Flag Adoption Year": "2002",
     "Flag Age (Years)": "24",
-    "Highest Office Holder": "PM Xanana Gusm\u00e3o",
+    "Highest Office Holder": "PM Xanana Gusmão",
     "Office Holder Age (Years)": "79",
     "Country Formation Year": 2002,
-    "Country Age (Years)": 24
+    "Country Age (Years)": 24,
+    "Continent": "Asia"
   },
   {
     "Country": "Turkey",
     "Capital City": "Ankara",
     "Flag Adoption Year": "1844",
     "Flag Age (Years)": "182",
-    "Highest Office Holder": "President Recep Tayyip Erdo\u011fan",
+    "Highest Office Holder": "President Recep Tayyip Erdoğan",
     "Office Holder Age (Years)": "72",
     "Country Formation Year": 1923,
-    "Country Age (Years)": 103
+    "Country Age (Years)": 103,
+    "Continent": "Asia"
   },
   {
     "Country": "Turkmenistan",
@@ -1427,7 +1569,8 @@
     "Highest Office Holder": "President Serdar Berdimuhamedow",
     "Office Holder Age (Years)": "44",
     "Country Formation Year": 1991,
-    "Country Age (Years)": 35
+    "Country Age (Years)": 35,
+    "Continent": "Asia"
   },
   {
     "Country": "UAE",
@@ -1437,7 +1580,8 @@
     "Highest Office Holder": "President Mohamed bin Zayed",
     "Office Holder Age (Years)": "65",
     "Country Formation Year": 1971,
-    "Country Age (Years)": 55
+    "Country Age (Years)": 55,
+    "Continent": "Asia"
   },
   {
     "Country": "Uzbekistan",
@@ -1447,17 +1591,19 @@
     "Highest Office Holder": "President Shavkat Mirziyoyev",
     "Office Holder Age (Years)": "68",
     "Country Formation Year": 1991,
-    "Country Age (Years)": 35
+    "Country Age (Years)": 35,
+    "Continent": "Asia"
   },
   {
     "Country": "Vietnam",
     "Capital City": "Hanoi",
     "Flag Adoption Year": "1945",
     "Flag Age (Years)": "81",
-    "Highest Office Holder": "President L\u01b0\u01a1ng C\u01b0\u1eddng",
+    "Highest Office Holder": "President Lương Cường",
     "Office Holder Age (Years)": "68",
     "Country Formation Year": 1945,
-    "Country Age (Years)": 81
+    "Country Age (Years)": 81,
+    "Continent": "Asia"
   },
   {
     "Country": "Yemen",
@@ -1467,7 +1613,8 @@
     "Highest Office Holder": "Chairman Rashad al-Alimi",
     "Office Holder Age (Years)": "72",
     "Country Formation Year": 1990,
-    "Country Age (Years)": 36
+    "Country Age (Years)": 36,
+    "Continent": "Asia"
   },
   {
     "Country": "Antigua / Barbuda",
@@ -1477,7 +1624,8 @@
     "Highest Office Holder": "PM Gaston Browne",
     "Office Holder Age (Years)": "59",
     "Country Formation Year": 1981,
-    "Country Age (Years)": 45
+    "Country Age (Years)": 45,
+    "Continent": "North America"
   },
   {
     "Country": "Argentina",
@@ -1487,7 +1635,8 @@
     "Highest Office Holder": "President Javier Milei",
     "Office Holder Age (Years)": "55",
     "Country Formation Year": 1816,
-    "Country Age (Years)": 210
+    "Country Age (Years)": 210,
+    "Continent": "South America"
   },
   {
     "Country": "Bahamas",
@@ -1497,7 +1646,8 @@
     "Highest Office Holder": "PM Philip Davis",
     "Office Holder Age (Years)": "74",
     "Country Formation Year": 1973,
-    "Country Age (Years)": 53
+    "Country Age (Years)": 53,
+    "Continent": "North America"
   },
   {
     "Country": "Barbados",
@@ -1507,17 +1657,19 @@
     "Highest Office Holder": "PM Mia Mottley",
     "Office Holder Age (Years)": "60",
     "Country Formation Year": 1966,
-    "Country Age (Years)": 60
+    "Country Age (Years)": 60,
+    "Continent": "North America"
   },
   {
     "Country": "Belize",
     "Capital City": "Belmopan",
     "Flag Adoption Year": "1981",
     "Flag Age (Years)": "45",
-    "Highest Office Holder": "PM Johnny Brice\u00f1o",
+    "Highest Office Holder": "PM Johnny Briceño",
     "Office Holder Age (Years)": "65",
     "Country Formation Year": 1981,
-    "Country Age (Years)": 45
+    "Country Age (Years)": 45,
+    "Continent": "North America"
   },
   {
     "Country": "Bolivia",
@@ -1527,17 +1679,19 @@
     "Highest Office Holder": "President Rodrigo Paz Pereira",
     "Office Holder Age (Years)": "58",
     "Country Formation Year": 1825,
-    "Country Age (Years)": 201
+    "Country Age (Years)": 201,
+    "Continent": "South America"
   },
   {
     "Country": "Brazil",
     "Capital City": "Brasilia",
     "Flag Adoption Year": "1992",
     "Flag Age (Years)": "34",
-    "Highest Office Holder": "President Luiz In\u00e1cio Lula da Silva",
+    "Highest Office Holder": "President Luiz Inácio Lula da Silva",
     "Office Holder Age (Years)": "80",
     "Country Formation Year": 1822,
-    "Country Age (Years)": 204
+    "Country Age (Years)": 204,
+    "Continent": "South America"
   },
   {
     "Country": "Canada",
@@ -1547,17 +1701,19 @@
     "Highest Office Holder": "PM Mark Carney",
     "Office Holder Age (Years)": "61",
     "Country Formation Year": 1867,
-    "Country Age (Years)": 159
+    "Country Age (Years)": 159,
+    "Continent": "North America"
   },
   {
     "Country": "Chile",
     "Capital City": "Santiago",
     "Flag Adoption Year": "1817",
     "Flag Age (Years)": "209",
-    "Highest Office Holder": "President Jos\u00e9 Antonio Kast",
+    "Highest Office Holder": "President José Antonio Kast",
     "Office Holder Age (Years)": "60",
     "Country Formation Year": 1818,
-    "Country Age (Years)": 208
+    "Country Age (Years)": 208,
+    "Continent": "South America"
   },
   {
     "Country": "Colombia",
@@ -1567,7 +1723,8 @@
     "Highest Office Holder": "President Gustavo Petro",
     "Office Holder Age (Years)": "65",
     "Country Formation Year": 1810,
-    "Country Age (Years)": 216
+    "Country Age (Years)": 216,
+    "Continent": "South America"
   },
   {
     "Country": "Costa Rica",
@@ -1577,17 +1734,19 @@
     "Highest Office Holder": "President Rodrigo Chaves Robles",
     "Office Holder Age (Years)": "64",
     "Country Formation Year": 1821,
-    "Country Age (Years)": 205
+    "Country Age (Years)": 205,
+    "Continent": "North America"
   },
   {
     "Country": "Cuba",
     "Capital City": "Havana",
     "Flag Adoption Year": "1902",
     "Flag Age (Years)": "124",
-    "Highest Office Holder": "President Miguel D\u00edaz-Canel",
+    "Highest Office Holder": "President Miguel Díaz-Canel",
     "Office Holder Age (Years)": "65",
     "Country Formation Year": 1902,
-    "Country Age (Years)": 124
+    "Country Age (Years)": 124,
+    "Continent": "North America"
   },
   {
     "Country": "Dominica",
@@ -1597,7 +1756,8 @@
     "Highest Office Holder": "PM Roosevelt Skerrit",
     "Office Holder Age (Years)": "53",
     "Country Formation Year": 1978,
-    "Country Age (Years)": 48
+    "Country Age (Years)": 48,
+    "Continent": "North America"
   },
   {
     "Country": "Dominican Rep.",
@@ -1607,7 +1767,8 @@
     "Highest Office Holder": "President Luis Abinader",
     "Office Holder Age (Years)": "58",
     "Country Formation Year": 1844,
-    "Country Age (Years)": 182
+    "Country Age (Years)": 182,
+    "Continent": "North America"
   },
   {
     "Country": "Ecuador",
@@ -1617,7 +1778,8 @@
     "Highest Office Holder": "President Daniel Noboa",
     "Office Holder Age (Years)": "38",
     "Country Formation Year": 1822,
-    "Country Age (Years)": 204
+    "Country Age (Years)": 204,
+    "Continent": "South America"
   },
   {
     "Country": "El Salvador",
@@ -1627,7 +1789,8 @@
     "Highest Office Holder": "President Nayib Bukele",
     "Office Holder Age (Years)": "44",
     "Country Formation Year": 1821,
-    "Country Age (Years)": 205
+    "Country Age (Years)": 205,
+    "Continent": "North America"
   },
   {
     "Country": "Grenada",
@@ -1637,17 +1800,19 @@
     "Highest Office Holder": "PM Dickon Mitchell",
     "Office Holder Age (Years)": "47",
     "Country Formation Year": 1974,
-    "Country Age (Years)": 52
+    "Country Age (Years)": 52,
+    "Continent": "North America"
   },
   {
     "Country": "Guatemala",
     "Capital City": "Guatemala City",
     "Flag Adoption Year": "1871",
     "Flag Age (Years)": "155",
-    "Highest Office Holder": "President Bernardo Ar\u00e9valo",
+    "Highest Office Holder": "President Bernardo Arévalo",
     "Office Holder Age (Years)": "67",
     "Country Formation Year": 1821,
-    "Country Age (Years)": 205
+    "Country Age (Years)": 205,
+    "Continent": "North America"
   },
   {
     "Country": "Guyana",
@@ -1657,17 +1822,19 @@
     "Highest Office Holder": "President Irfaan Ali",
     "Office Holder Age (Years)": "45",
     "Country Formation Year": 1966,
-    "Country Age (Years)": 60
+    "Country Age (Years)": 60,
+    "Continent": "South America"
   },
   {
     "Country": "Haiti",
     "Capital City": "Port-au-Prince",
     "Flag Adoption Year": "1986",
     "Flag Age (Years)": "40",
-    "Highest Office Holder": "Acting President Alix Didier Fils-Aim\u00e9",
+    "Highest Office Holder": "Acting President Alix Didier Fils-Aimé",
     "Office Holder Age (Years)": "54",
     "Country Formation Year": 1804,
-    "Country Age (Years)": 222
+    "Country Age (Years)": 222,
+    "Continent": "North America"
   },
   {
     "Country": "Honduras",
@@ -1677,7 +1844,8 @@
     "Highest Office Holder": "President Nasry Asfura",
     "Office Holder Age (Years)": "67",
     "Country Formation Year": 1821,
-    "Country Age (Years)": 205
+    "Country Age (Years)": 205,
+    "Continent": "North America"
   },
   {
     "Country": "Jamaica",
@@ -1687,7 +1855,8 @@
     "Highest Office Holder": "PM Andrew Holness",
     "Office Holder Age (Years)": "53",
     "Country Formation Year": 1962,
-    "Country Age (Years)": 64
+    "Country Age (Years)": 64,
+    "Continent": "North America"
   },
   {
     "Country": "Mexico",
@@ -1697,7 +1866,8 @@
     "Highest Office Holder": "President Claudia Sheinbaum",
     "Office Holder Age (Years)": "63",
     "Country Formation Year": 1810,
-    "Country Age (Years)": 216
+    "Country Age (Years)": 216,
+    "Continent": "North America"
   },
   {
     "Country": "Nicaragua",
@@ -1707,37 +1877,41 @@
     "Highest Office Holder": "President Daniel Ortega",
     "Office Holder Age (Years)": "80",
     "Country Formation Year": 1821,
-    "Country Age (Years)": 205
+    "Country Age (Years)": 205,
+    "Continent": "North America"
   },
   {
     "Country": "Panama",
     "Capital City": "Panama City",
     "Flag Adoption Year": "1925",
     "Flag Age (Years)": "101",
-    "Highest Office Holder": "President Jos\u00e9 Ra\u00fal Mulino",
+    "Highest Office Holder": "President José Raúl Mulino",
     "Office Holder Age (Years)": "66",
     "Country Formation Year": 1903,
-    "Country Age (Years)": 123
+    "Country Age (Years)": 123,
+    "Continent": "North America"
   },
   {
     "Country": "Paraguay",
     "Capital City": "Asuncion",
     "Flag Adoption Year": "1842",
     "Flag Age (Years)": "184",
-    "Highest Office Holder": "President Santiago Pe\u00f1a",
+    "Highest Office Holder": "President Santiago Peña",
     "Office Holder Age (Years)": "47",
     "Country Formation Year": 1811,
-    "Country Age (Years)": 215
+    "Country Age (Years)": 215,
+    "Continent": "South America"
   },
   {
     "Country": "Peru",
     "Capital City": "Lima",
     "Flag Adoption Year": "1825",
     "Flag Age (Years)": "201",
-    "Highest Office Holder": "President Jos\u00e9 Jer\u00ed",
+    "Highest Office Holder": "President José Jerí",
     "Office Holder Age (Years)": "40",
     "Country Formation Year": 1821,
-    "Country Age (Years)": 205
+    "Country Age (Years)": 205,
+    "Continent": "South America"
   },
   {
     "Country": "Saint Kitts / Nevis",
@@ -1747,7 +1921,8 @@
     "Highest Office Holder": "PM Terrance Drew",
     "Office Holder Age (Years)": "53",
     "Country Formation Year": 1983,
-    "Country Age (Years)": 43
+    "Country Age (Years)": 43,
+    "Continent": "North America"
   },
   {
     "Country": "Saint Lucia",
@@ -1757,7 +1932,8 @@
     "Highest Office Holder": "PM Philip J. Pierre",
     "Office Holder Age (Years)": "71",
     "Country Formation Year": 1979,
-    "Country Age (Years)": 47
+    "Country Age (Years)": 47,
+    "Continent": "North America"
   },
   {
     "Country": "Saint Vincent",
@@ -1767,7 +1943,8 @@
     "Highest Office Holder": "PM Ralph Gonsalves",
     "Office Holder Age (Years)": "79",
     "Country Formation Year": 1979,
-    "Country Age (Years)": 47
+    "Country Age (Years)": 47,
+    "Continent": "North America"
   },
   {
     "Country": "Suriname",
@@ -1777,7 +1954,8 @@
     "Highest Office Holder": "President Chan Santokhi",
     "Office Holder Age (Years)": "67",
     "Country Formation Year": 1975,
-    "Country Age (Years)": 51
+    "Country Age (Years)": 51,
+    "Continent": "South America"
   },
   {
     "Country": "Trinidad / Tobago",
@@ -1787,7 +1965,8 @@
     "Highest Office Holder": "PM Keith Rowley",
     "Office Holder Age (Years)": "76",
     "Country Formation Year": 1962,
-    "Country Age (Years)": 64
+    "Country Age (Years)": 64,
+    "Continent": "North America"
   },
   {
     "Country": "United States",
@@ -1797,27 +1976,30 @@
     "Highest Office Holder": "President Donald Trump",
     "Office Holder Age (Years)": "79",
     "Country Formation Year": 1776,
-    "Country Age (Years)": 250
+    "Country Age (Years)": 250,
+    "Continent": "North America"
   },
   {
     "Country": "Uruguay",
     "Capital City": "Montevideo",
     "Flag Adoption Year": "1828",
     "Flag Age (Years)": "198",
-    "Highest Office Holder": "President \u00c1lvaro Delgado",
+    "Highest Office Holder": "President Álvaro Delgado",
     "Office Holder Age (Years)": "57",
     "Country Formation Year": 1825,
-    "Country Age (Years)": 201
+    "Country Age (Years)": 201,
+    "Continent": "South America"
   },
   {
     "Country": "Venezuela",
     "Capital City": "Caracas",
     "Flag Adoption Year": "2006",
     "Flag Age (Years)": "20",
-    "Highest Office Holder": "President Nicol\u00e1s Maduro",
+    "Highest Office Holder": "President Nicolás Maduro",
     "Office Holder Age (Years)": "63",
     "Country Formation Year": 1811,
-    "Country Age (Years)": 215
+    "Country Age (Years)": 215,
+    "Continent": "South America"
   },
   {
     "Country": "Australia",
@@ -1827,7 +2009,8 @@
     "Highest Office Holder": "PM Anthony Albanese",
     "Office Holder Age (Years)": "63",
     "Country Formation Year": 1901,
-    "Country Age (Years)": 125
+    "Country Age (Years)": 125,
+    "Continent": "Australia"
   },
   {
     "Country": "Fiji",
@@ -1837,7 +2020,8 @@
     "Highest Office Holder": "PM Sitiveni Rabuka",
     "Office Holder Age (Years)": "77",
     "Country Formation Year": 1970,
-    "Country Age (Years)": 56
+    "Country Age (Years)": 56,
+    "Continent": "Australia"
   },
   {
     "Country": "Kiribati",
@@ -1847,7 +2031,8 @@
     "Highest Office Holder": "President Taneti Maamau",
     "Office Holder Age (Years)": "65",
     "Country Formation Year": 1979,
-    "Country Age (Years)": 47
+    "Country Age (Years)": 47,
+    "Continent": "Australia"
   },
   {
     "Country": "Marshall Islands",
@@ -1857,7 +2042,8 @@
     "Highest Office Holder": "President Hilda Heine",
     "Office Holder Age (Years)": "75",
     "Country Formation Year": 1986,
-    "Country Age (Years)": 40
+    "Country Age (Years)": 40,
+    "Continent": "Australia"
   },
   {
     "Country": "Micronesia",
@@ -1867,7 +2053,8 @@
     "Highest Office Holder": "President Wesley Simina",
     "Office Holder Age (Years)": "70",
     "Country Formation Year": 1986,
-    "Country Age (Years)": 40
+    "Country Age (Years)": 40,
+    "Continent": "Australia"
   },
   {
     "Country": "Nauru",
@@ -1877,7 +2064,8 @@
     "Highest Office Holder": "President David Adeang",
     "Office Holder Age (Years)": "56",
     "Country Formation Year": 1968,
-    "Country Age (Years)": 58
+    "Country Age (Years)": 58,
+    "Continent": "Australia"
   },
   {
     "Country": "New Zealand",
@@ -1887,7 +2075,8 @@
     "Highest Office Holder": "PM Christopher Luxon",
     "Office Holder Age (Years)": "55",
     "Country Formation Year": 1907,
-    "Country Age (Years)": 119
+    "Country Age (Years)": 119,
+    "Continent": "Australia"
   },
   {
     "Country": "Palau",
@@ -1897,7 +2086,8 @@
     "Highest Office Holder": "President Surangel Whipps Jr.",
     "Office Holder Age (Years)": "57",
     "Country Formation Year": 1994,
-    "Country Age (Years)": 32
+    "Country Age (Years)": 32,
+    "Continent": "Australia"
   },
   {
     "Country": "Papua New Guinea",
@@ -1907,17 +2097,19 @@
     "Highest Office Holder": "PM James Marape",
     "Office Holder Age (Years)": "55",
     "Country Formation Year": 1975,
-    "Country Age (Years)": 51
+    "Country Age (Years)": 51,
+    "Continent": "Australia"
   },
   {
     "Country": "Samoa",
     "Capital City": "Apia",
     "Flag Adoption Year": "1949",
     "Flag Age (Years)": "77",
-    "Highest Office Holder": "PM Fiam\u0113 Naomi Mata\u02bbafa",
+    "Highest Office Holder": "PM Fiamē Naomi Mataʻafa",
     "Office Holder Age (Years)": "69",
     "Country Formation Year": 1962,
-    "Country Age (Years)": 64
+    "Country Age (Years)": 64,
+    "Continent": "Australia"
   },
   {
     "Country": "Solomon Islands",
@@ -1927,7 +2119,8 @@
     "Highest Office Holder": "PM Jeremiah Manele",
     "Office Holder Age (Years)": "57",
     "Country Formation Year": 1978,
-    "Country Age (Years)": 48
+    "Country Age (Years)": 48,
+    "Continent": "Australia"
   },
   {
     "Country": "Tonga",
@@ -1937,7 +2130,8 @@
     "Highest Office Holder": "King Tupou VI",
     "Office Holder Age (Years)": "66",
     "Country Formation Year": 1970,
-    "Country Age (Years)": 56
+    "Country Age (Years)": 56,
+    "Continent": "Australia"
   },
   {
     "Country": "Tuvalu",
@@ -1947,7 +2141,8 @@
     "Highest Office Holder": "PM Feleti Teo",
     "Office Holder Age (Years)": "63",
     "Country Formation Year": 1978,
-    "Country Age (Years)": 48
+    "Country Age (Years)": 48,
+    "Continent": "Australia"
   },
   {
     "Country": "Vanuatu",
@@ -1957,6 +2152,7 @@
     "Highest Office Holder": "PM Charlot Salwai",
     "Office Holder Age (Years)": "63",
     "Country Formation Year": 1980,
-    "Country Age (Years)": 46
+    "Country Age (Years)": 46,
+    "Continent": "Australia"
   }
 ]
