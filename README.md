@@ -110,18 +110,24 @@ Pandas integrates with visualization libraries to turn tables into insights:
 
 ## 📂 Repository Structure
 
-- `data_frame.py`: Exploring basic DataFrame operations and indexing.
-- `dic_in_pandas.py`: Converting Python dictionaries into tabular data.
-- `list_in_pandas.py`: Working with Python lists in a Pandas context.
-- `importing.py`: Demonstrating data ingestion techniques.
-- `filtering.py`: Boolean indexing and conditional filtering.
-- `selection.py`: Specialized selection methods (label vs position).
-- `aggregation.py`: Implementing the "Split-Apply-Combine" strategy.
-- `update_data.py`: Synchronizing CSV data changes with JSON sources.
-- `TestSelection.py`, `Testdataframe.py`, `Testseries.py`: Scripts for verifying core pandas logic.
-- `data/`: Directory containing project datasets (CSV, JSON).
+```
+Learning/
+├── start.py               # Entry point / hello-world script
+├── data_frame.py          # Exploring basic DataFrame operations and indexing
+├── dic_in_pandas.py       # Converting Python dictionaries into tabular data
+├── list_in_pandas.py      # Working with Python lists in a Pandas context
+├── importing.py           # Demonstrating data ingestion techniques
+├── filtering.py           # Boolean indexing and conditional filtering
+├── selection.py           # Specialized selection methods (label vs position)
+├── aggregation.py         # Implementing the "Split-Apply-Combine" strategy
+├── datacleaning.py        # Data cleaning workflow (see below)
+├── TestSelection.py       # Verifying selection logic
+├── Testdataframe.py       # Verifying DataFrame logic
+├── Testseries.py          # Verifying Series logic
+├── data/                  # Clean project datasets
+│   ├── data.csv
+│   └── data.json
+└── testdataset/           # Intentionally messy dataset for cleaning practice
+    └── data.csv
+```
 
-
----
-
-Happy learning! 🐼
